@@ -23,7 +23,12 @@ const config = {
   projectName: 'assemblya',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -40,11 +45,7 @@ const config = {
           editUrl:
             'https://github.com/atherdon/assemblya/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/atherdon/assemblya/tree/main/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -69,7 +70,6 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/atherdon/assemblya',
             label: 'GitHub',
@@ -95,15 +95,6 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/atherdon/assemblya',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
               },
             ],
           },
