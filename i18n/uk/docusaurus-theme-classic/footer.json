@@ -27,6 +27,10 @@
     "message": "Houdini",
     "description": "The label of footer link with label=Houdini linking to /docs/specifications/systems/houdini"
   },
+  "link.item.label.Pricing": {
+    "message": "Ціни",
+    "description": "The label of footer link with label=Pricing linking to /pricing"
+  },
   "copyright": {
     "message": "Copyright © 2026 AssemBLYA. Зроблено на Docusaurus.",
     "description": "The footer copyright"

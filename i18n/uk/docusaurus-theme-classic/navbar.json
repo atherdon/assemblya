@@ -27,6 +27,10 @@
     "message": "Houdini",
     "description": "Navbar item with label Houdini"
   },
+  "item.label.Pricing": {
+    "message": "Ціни",
+    "description": "Navbar item with label Pricing"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
