@@ -8,8 +8,8 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AssemblyA',
-  tagline: 'Documentation for AssemblyA',
+  title: 'AssemBLYA',
+  tagline: 'Modular payload delivery platform — veterans-led engineering docs',
   favicon: 'img/favicon.ico',
 
   // GitHub Pages project site: https://atherdon.github.io/assemblya/
@@ -63,6 +63,11 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
@@ -70,11 +75,28 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpg',
+      metadata: [
+        {
+          name: 'description',
+          content:
+            'AssemBLYA documentation: modular payload delivery systems, competitor teardowns, roadmap, and hardware notes.',
+        },
+        {
+          name: 'keywords',
+          content:
+            'AssemBLYA, AssemblyA, payload delivery, FPV drop system, modular platform, Ukraine',
+        },
+        { property: 'og:type', content: 'website' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+      ],
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
       navbar: {
-        title: 'AssemblyA',
+        title: 'AssemBLYA',
         logo: {
-          alt: 'AssemblyA Logo',
+          alt: 'AssemBLYA Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -83,6 +105,21 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
+          },
+          {
+            to: '/docs/outsourcing-engineering/assemblya/roadmap',
+            label: 'Roadmap',
+            position: 'left',
+          },
+          {
+            to: '/docs/competitors',
+            label: 'Competitors',
+            position: 'left',
+          },
+          {
+            to: '/docs/outsourcing-engineering/assemblya/GarryHudini',
+            label: 'Houdini',
+            position: 'left',
           },
           {
             href: 'https://github.com/atherdon/assemblya',
@@ -101,6 +138,18 @@ const config = {
                 label: 'Getting Started',
                 to: '/docs/intro',
               },
+              {
+                label: 'Roadmap',
+                to: '/docs/outsourcing-engineering/assemblya/roadmap',
+              },
+              {
+                label: 'Competitors',
+                to: '/docs/competitors',
+              },
+              {
+                label: 'Houdini',
+                to: '/docs/outsourcing-engineering/assemblya/GarryHudini',
+              },
             ],
           },
           {
@@ -113,7 +162,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AssemblyA. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AssemBLYA. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
