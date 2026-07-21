@@ -126,6 +126,36 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: '#',
+            label: 'Instagram',
+            position: 'right',
+          },
+          {
+            href: '#',
+            label: 'Facebook',
+            position: 'right',
+          },
+          {
+            href: '#',
+            label: 'LinkedIn',
+            position: 'right',
+          },
+          {
+            href: '#',
+            label: 'TikTok',
+            position: 'right',
+          },
+          {
+            href: '#',
+            label: 'Support',
+            position: 'right',
+          },
+          {
+            href: 'mailto:',
+            label: 'Email',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -158,6 +188,35 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/atherdon/assemblya',
+              },
+              {
+                label: 'Support',
+                href: '#',
+              },
+              {
+                label: 'Email',
+                href: 'mailto:',
+              },
+            ],
+          },
+          {
+            title: 'Social',
+            items: [
+              {
+                label: 'Instagram',
+                href: '#',
+              },
+              {
+                label: 'Facebook',
+                href: '#',
+              },
+              {
+                label: 'LinkedIn',
+                href: '#',
+              },
+              {
+                label: 'TikTok',
+                href: '#',
               },
             ],
           },
