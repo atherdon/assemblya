@@ -124,36 +124,50 @@ const config = {
           {
             href: 'https://github.com/atherdon/assemblya',
             label: 'GitHub',
+            title: 'GitHub',
+            className: 'header-icon-link header-github-link',
             position: 'right',
           },
           {
             href: '#',
             label: 'Instagram',
+            title: 'Instagram',
+            className: 'header-icon-link header-instagram-link',
             position: 'right',
           },
           {
             href: '#',
             label: 'Facebook',
+            title: 'Facebook',
+            className: 'header-icon-link header-facebook-link',
             position: 'right',
           },
           {
             href: '#',
             label: 'LinkedIn',
+            title: 'LinkedIn',
+            className: 'header-icon-link header-linkedin-link',
             position: 'right',
           },
           {
             href: '#',
             label: 'TikTok',
+            title: 'TikTok',
+            className: 'header-icon-link header-tiktok-link',
             position: 'right',
           },
           {
             href: '#',
             label: 'Support',
+            title: 'Support',
+            className: 'header-icon-link header-support-link',
             position: 'right',
           },
           {
             href: 'mailto:',
             label: 'Email',
+            title: 'Email',
+            className: 'header-icon-link header-email-link',
             position: 'right',
           },
         ],
@@ -186,16 +200,13 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/atherdon/assemblya',
+                html: '<a href="https://github.com/atherdon/assemblya" target="_blank" rel="noopener noreferrer" class="footer__link-item"><i class="fa-brands fa-github link-icon" aria-hidden="true"></i>GitHub</a>',
               },
               {
-                label: 'Support',
-                href: '#',
+                html: '<a href="#" class="footer__link-item"><i class="fa-solid fa-life-ring link-icon" aria-hidden="true"></i>Support</a>',
               },
               {
-                label: 'Email',
-                href: 'mailto:',
+                html: '<a href="mailto:" class="footer__link-item"><i class="fa-solid fa-envelope link-icon" aria-hidden="true"></i>Email</a>',
               },
             ],
           },
@@ -203,20 +214,16 @@ const config = {
             title: 'Social',
             items: [
               {
-                label: 'Instagram',
-                href: '#',
+                html: '<a href="#" class="footer__link-item"><i class="fa-brands fa-instagram link-icon" aria-hidden="true"></i>Instagram</a>',
               },
               {
-                label: 'Facebook',
-                href: '#',
+                html: '<a href="#" class="footer__link-item"><i class="fa-brands fa-facebook link-icon" aria-hidden="true"></i>Facebook</a>',
               },
               {
-                label: 'LinkedIn',
-                href: '#',
+                html: '<a href="#" class="footer__link-item"><i class="fa-brands fa-linkedin link-icon" aria-hidden="true"></i>LinkedIn</a>',
               },
               {
-                label: 'TikTok',
-                href: '#',
+                html: '<a href="#" class="footer__link-item"><i class="fa-brands fa-tiktok link-icon" aria-hidden="true"></i>TikTok</a>',
               },
             ],
           },
