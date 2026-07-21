@@ -149,6 +149,11 @@ const config = {
             position: 'left',
           },
           {
+            to: '/timeline',
+            label: 'Timeline',
+            position: 'left',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
@@ -232,6 +237,10 @@ const config = {
               {
                 label: 'FAQ',
                 to: '/faq',
+              },
+              {
+                label: 'Timeline',
+                to: '/timeline',
               },
             ],
           },

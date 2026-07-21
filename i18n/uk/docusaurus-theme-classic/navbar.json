@@ -35,6 +35,10 @@
     "message": "FAQ",
     "description": "Navbar item with label FAQ"
   },
+  "item.label.Timeline": {
+    "message": "Хронологія",
+    "description": "Navbar item with label Timeline"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"

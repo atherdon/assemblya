@@ -585,5 +585,17 @@
   },
   "faq.lede": {
     "message": "Поширені запитання та відповіді. Поки що текст-заглушка."
+  },
+  "timeline.meta.title": {
+    "message": "Хронологія"
+  },
+  "timeline.meta.description": {
+    "message": "Хронологія AssemBLYA — віхи та історія проєкту."
+  },
+  "timeline.title": {
+    "message": "Хронологія"
+  },
+  "timeline.lede": {
+    "message": "Віхи проєкту за роками. Поки що текст-заглушка."
   }
 }

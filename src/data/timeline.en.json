@@ -1,0 +1,67 @@
+[
+  {
+    "year": "1983",
+    "items": [
+      {
+        "id": "1983-1",
+        "title": "Title",
+        "body": "Lorem ipsum dolor sit amet."
+      }
+    ]
+  },
+  {
+    "year": "1984",
+    "items": [
+      {
+        "id": "1984-1",
+        "title": "Title",
+        "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": "1984-2",
+        "title": "Title",
+        "body": "Lorem ipsum dolor sit amet."
+      }
+    ]
+  },
+  {
+    "year": "1985",
+    "items": [
+      {
+        "id": "1985-1",
+        "title": "Title",
+        "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      }
+    ]
+  },
+  {
+    "year": "1986",
+    "items": [
+      {
+        "id": "1986-1",
+        "title": "Title",
+        "body": "Lorem ipsum dolor sit amet."
+      }
+    ]
+  },
+  {
+    "year": "1987",
+    "items": [
+      {
+        "id": "1987-1",
+        "title": "Title",
+        "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    ]
+  },
+  {
+    "year": "1988",
+    "items": [
+      {
+        "id": "1988-1",
+        "title": "Title",
+        "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      }
+    ]
+  }
+]
