@@ -1,33 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
+
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a simple framework built on top of it.
- * For details, visit: https://infima.dev/docs/getting-started/introduction
+ * AssemBLYA global theme tokens + Font Awesome
  */
 
 @import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
 @import '@fortawesome/fontawesome-free/css/solid.min.css';
 @import '@fortawesome/fontawesome-free/css/brands.min.css';
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #278040;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --aa-ink: #152019;
+  --aa-ink-soft: #3d4a42;
+  --aa-paper: #e7ebdf;
+  --aa-paper-deep: #cfd7c4;
+  --aa-panel: #f4f6ef;
+  --aa-line: rgba(21, 32, 25, 0.12);
+  --aa-forest: #2f6b4f;
+  --aa-forest-deep: #21523c;
+  --aa-steel: #4a6d7c;
+  --aa-hero-veil: rgba(12, 18, 14, 0.55);
+
+  --ifm-color-primary: #2f6b4f;
+  --ifm-color-primary-dark: #295f46;
+  --ifm-color-primary-darker: #275942;
+  --ifm-color-primary-darkest: #204936;
+  --ifm-color-primary-light: #387958;
+  --ifm-color-primary-lighter: #3b7f5c;
+  --ifm-color-primary-lightest: #4a9170;
+  --ifm-font-family-base: 'Source Serif 4', 'Iowan Old Style', 'Palatino Linotype', Palatino, serif;
+  --ifm-heading-font-family: 'Sora', 'Avenir Next', 'Segoe UI', sans-serif;
+  --ifm-font-color-base: var(--aa-ink);
+  --ifm-background-color: var(--aa-paper);
+  --ifm-navbar-background-color: rgba(244, 246, 239, 0.92);
+  --ifm-footer-background-color: #1a2420;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32dfc5;
-  --ifm-color-primary-lightest: #4fddbf;
+  --aa-ink: #e8efe8;
+  --aa-ink-soft: #b7c2ba;
+  --aa-paper: #141a17;
+  --aa-paper-deep: #1d2621;
+  --aa-panel: #1c2520;
+  --aa-line: rgba(232, 239, 232, 0.12);
+  --aa-forest: #3f9a6f;
+  --aa-forest-deep: #2f6b4f;
+  --aa-steel: #7ea0b0;
+  --aa-hero-veil: rgba(8, 12, 10, 0.62);
+
+  --ifm-color-primary: #3f9a6f;
+  --ifm-color-primary-dark: #388b64;
+  --ifm-color-primary-darker: #35835e;
+  --ifm-color-primary-darkest: #2c6c4e;
+  --ifm-color-primary-light: #4ea67c;
+  --ifm-color-primary-lighter: #56ab83;
+  --ifm-color-primary-lightest: #70ba97;
+  --ifm-background-color: var(--aa-paper);
+  --ifm-navbar-background-color: rgba(20, 26, 23, 0.92);
+  --ifm-footer-background-color: #0e1311;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(74, 109, 124, 0.14), transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, rgba(47, 107, 79, 0.12), transparent 50%),
+    linear-gradient(180deg, var(--aa-paper) 0%, var(--aa-paper-deep) 100%);
+}
+
+h1,
+h2,
+h3,
+h4,
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  letter-spacing: -0.02em;
 }
 
 .docTitle {
@@ -90,7 +139,6 @@
   content: '\f0e0';
 }
 
-/* Footer icons next to labels */
 .footer__link-item .link-icon {
   margin-right: 0.4rem;
   width: 1em;
