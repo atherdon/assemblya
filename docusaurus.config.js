@@ -107,7 +107,7 @@ const config = {
             label: 'Docs',
           },
           {
-            to: '/docs/outsourcing-engineering/assemblya/roadmap',
+            to: '/docs/roadmap',
             label: 'Roadmap',
             position: 'left',
           },
@@ -127,34 +127,13 @@ const config = {
             position: 'right',
           },
           {
-            href: '#',
-            label: 'Instagram',
+            type: 'dropdown',
+            label: 'Community',
             position: 'right',
-          },
-          {
-            href: '#',
-            label: 'Facebook',
-            position: 'right',
-          },
-          {
-            href: '#',
-            label: 'LinkedIn',
-            position: 'right',
-          },
-          {
-            href: '#',
-            label: 'TikTok',
-            position: 'right',
-          },
-          {
-            href: '#',
-            label: 'Support',
-            position: 'right',
-          },
-          {
-            href: 'mailto:',
-            label: 'Email',
-            position: 'right',
+            items: [
+              { label: 'GitHub', href: 'https://github.com/atherdon/assemblya' },
+              { label: 'Contact', href: 'mailto:arthur.tkachenko@proton.me' },
+            ],
           },
         ],
       },
@@ -191,11 +170,11 @@ const config = {
               },
               {
                 label: 'Support',
-                href: '#',
+                href: '/docs/support',
               },
               {
                 label: 'Email',
-                href: 'mailto:',
+                href: 'mailto:arthur.tkachenko@proton.me',
               },
             ],
           },
