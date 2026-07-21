@@ -35,6 +35,10 @@
     "message": "FAQ",
     "description": "The label of footer link with label=FAQ linking to /faq"
   },
+  "link.item.label.Timeline": {
+    "message": "Хронологія",
+    "description": "The label of footer link with label=Timeline linking to /timeline"
+  },
   "copyright": {
     "message": "Copyright © 2026 AssemBLYA. Зроблено на Docusaurus.",
     "description": "The footer copyright"
