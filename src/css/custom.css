@@ -4,6 +4,10 @@
  * For details, visit: https://infima.dev/docs/getting-started/introduction
  */
 
+@import '@fortawesome/fontawesome-free/css/fontawesome.min.css';
+@import '@fortawesome/fontawesome-free/css/solid.min.css';
+@import '@fortawesome/fontawesome-free/css/brands.min.css';
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
@@ -28,4 +32,67 @@
 
 .docTitle {
   font-size: 3rem;
+}
+
+/* Navbar icon links (social / contact) */
+.header-icon-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  padding: 0;
+  font-size: 0;
+  line-height: 1;
+}
+
+.header-icon-link::before {
+  font-size: 1.15rem;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.header-github-link::before {
+  font-family: 'Font Awesome 6 Brands';
+  content: '\f09b';
+}
+
+.header-instagram-link::before {
+  font-family: 'Font Awesome 6 Brands';
+  content: '\f16d';
+}
+
+.header-facebook-link::before {
+  font-family: 'Font Awesome 6 Brands';
+  content: '\f39e';
+}
+
+.header-linkedin-link::before {
+  font-family: 'Font Awesome 6 Brands';
+  content: '\f08c';
+}
+
+.header-tiktok-link::before {
+  font-family: 'Font Awesome 6 Brands';
+  content: '\e07b';
+}
+
+.header-support-link::before {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900;
+  content: '\f1cd';
+}
+
+.header-email-link::before {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900;
+  content: '\f0e0';
+}
+
+/* Footer icons next to labels */
+.footer__link-item .link-icon {
+  margin-right: 0.4rem;
+  width: 1em;
+  text-align: center;
 }
