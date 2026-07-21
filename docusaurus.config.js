@@ -139,6 +139,11 @@ const config = {
             position: 'left',
           },
           {
+            to: '/pricing',
+            label: 'Pricing',
+            position: 'left',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
@@ -214,6 +219,10 @@ const config = {
               {
                 label: 'Houdini',
                 to: '/docs/specifications/systems/houdini',
+              },
+              {
+                label: 'Pricing',
+                to: '/pricing',
               },
             ],
           },

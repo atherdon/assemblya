@@ -504,5 +504,74 @@
   },
   "home.platform.bulk.text": {
     "message": "Для організацій і партнерів — стандартизоване виробництво, не роздрібні набори."
+  },
+  "pricing.meta.title": {
+    "message": "Ціни"
+  },
+  "pricing.meta.description": {
+    "message": "Ціни на drop-системи AssemBLYA — пакети по 10, 20 або 30+ одиниць."
+  },
+  "pricing.title": {
+    "message": "Ціни"
+  },
+  "pricing.lede": {
+    "message": "Оберіть розмір пакета drop-систем. Функції поки що як заглушки."
+  },
+  "pricing.plan10.name": {
+    "message": "10 drop-систем"
+  },
+  "pricing.plan10.quantity": {
+    "message": "Купити 10 drop-систем"
+  },
+  "pricing.plan10.price": {
+    "message": "3000 грн"
+  },
+  "pricing.plan10.note": {
+    "message": "за одиницю"
+  },
+  "pricing.plan20.name": {
+    "message": "20 drop-систем"
+  },
+  "pricing.plan20.quantity": {
+    "message": "Замовити 20 drop-систем"
+  },
+  "pricing.plan20.price": {
+    "message": "2000 грн"
+  },
+  "pricing.plan20.note": {
+    "message": "за одиницю"
+  },
+  "pricing.planUnlimited.name": {
+    "message": "Unlimited Plan"
+  },
+  "pricing.planUnlimited.quantity": {
+    "message": "30 і більше drop-систем"
+  },
+  "pricing.planUnlimited.price": {
+    "message": "Індивідуально"
+  },
+  "pricing.planUnlimited.note": {
+    "message": "оптова ціна"
+  },
+  "pricing.feature1": {
+    "message": "feature1"
+  },
+  "pricing.feature2": {
+    "message": "feature2"
+  },
+  "pricing.feature3": {
+    "message": "feature3"
+  },
+  "pricing.feature4": {
+    "message": "feature4"
+  },
+  "pricing.feature5": {
+    "message": "feature5"
+  },
+  "pricing.cta.order": {
+    "message": "Замовити"
+  },
+  "pricing.cta.contact": {
+    "message": "Звʼязатися з нами"
   }
 }
