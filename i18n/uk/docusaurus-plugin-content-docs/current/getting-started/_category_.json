@@ -1,0 +1,10 @@
+{
+  "label": "Початок роботи",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Початок роботи",
+    "description": "Почніть тут: огляд, місія та орієнтація щодо AssemBLYA.",
+    "slug": "/getting-started"
+  }
+}

@@ -31,7 +31,17 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'uk'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        htmlLang: 'en',
+      },
+      uk: {
+        label: 'Українська',
+        htmlLang: 'uk',
+      },
+    },
   },
 
   themes: [
@@ -40,6 +50,7 @@ const config = {
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         hashed: true,
+        // lunr language packs: English only; Ukrainian docs still index as text
         language: ['en'],
         indexDocs: true,
         indexBlog: false,
@@ -58,6 +69,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/atherdon/assemblya/tree/main/',
+          editLocalizedFiles: true,
         },
         blog: false,
         theme: {
@@ -125,6 +137,10 @@ const config = {
             to: '/docs/specifications/systems/houdini',
             label: 'Houdini',
             position: 'left',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/atherdon/assemblya',

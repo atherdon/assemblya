@@ -1,0 +1,10 @@
+{
+  "label": "Systems",
+  "position": 20,
+  "link": {
+    "type": "generated-index",
+    "title": "Systems",
+    "description": "Product and prototype systems under AssemBLYA.",
+    "slug": "/specifications/systems"
+  }
+}

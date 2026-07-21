@@ -1,0 +1,58 @@
+{
+  "title": {
+    "message": "AssemBLYA",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Логотип AssemBLYA",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Документація",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Getting Started": {
+    "message": "Початок роботи",
+    "description": "Navbar item with label Getting Started"
+  },
+  "item.label.Roadmap": {
+    "message": "Дорожня карта",
+    "description": "Navbar item with label Roadmap"
+  },
+  "item.label.Competitors": {
+    "message": "Конкуренти",
+    "description": "Navbar item with label Competitors"
+  },
+  "item.label.Houdini": {
+    "message": "Houdini",
+    "description": "Navbar item with label Houdini"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Instagram": {
+    "message": "Instagram",
+    "description": "Navbar item with label Instagram"
+  },
+  "item.label.Facebook": {
+    "message": "Facebook",
+    "description": "Navbar item with label Facebook"
+  },
+  "item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "Navbar item with label LinkedIn"
+  },
+  "item.label.TikTok": {
+    "message": "TikTok",
+    "description": "Navbar item with label TikTok"
+  },
+  "item.label.Support": {
+    "message": "Підтримка",
+    "description": "Navbar item with label Support"
+  },
+  "item.label.Email": {
+    "message": "Email",
+    "description": "Navbar item with label Email"
+  }
+}

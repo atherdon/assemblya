@@ -1,8 +1,8 @@
 ---
-slug: /getting-started/ua
-title: Місія (UA)
-sidebar_label: Українською
-sidebar_position: 4
+slug: /getting-started/mission
+title: Місія
+sidebar_label: Місія
+sidebar_position: 3
 ---
 
 # Місія

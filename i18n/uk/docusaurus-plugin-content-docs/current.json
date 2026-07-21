@@ -1,0 +1,94 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Getting Started": {
+    "message": "Початок роботи",
+    "description": "The label for category 'Getting Started' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Getting Started.link.generated-index.title": {
+    "message": "Початок роботи",
+    "description": "The generated-index page title for category 'Getting Started' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Getting Started.link.generated-index.description": {
+    "message": "Почніть тут: огляд, місія та орієнтація щодо AssemBLYA.",
+    "description": "The generated-index page description for category 'Getting Started' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Specifications": {
+    "message": "Специфікації",
+    "description": "The label for category 'Specifications' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Specifications.link.generated-index.title": {
+    "message": "Специфікації",
+    "description": "The generated-index page title for category 'Specifications' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Specifications.link.generated-index.description": {
+    "message": "Дорожня карта, системи та 3D-довідники платформи AssemBLYA.",
+    "description": "The generated-index page description for category 'Specifications' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Systems": {
+    "message": "Системи",
+    "description": "The label for category 'Systems' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Systems.link.generated-index.title": {
+    "message": "Системи",
+    "description": "The generated-index page title for category 'Systems' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Systems.link.generated-index.description": {
+    "message": "Продуктові та прототипні системи AssemBLYA.",
+    "description": "The generated-index page description for category 'Systems' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.User Guide": {
+    "message": "Посібник користувача",
+    "description": "The label for category 'User Guide' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.User Guide.link.generated-index.title": {
+    "message": "Посібник користувача",
+    "description": "The generated-index page title for category 'User Guide' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.User Guide.link.generated-index.description": {
+    "message": "Замовлення, комунікація та практичні робочі нотатки.",
+    "description": "The generated-index page description for category 'User Guide' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Development": {
+    "message": "Розробка",
+    "description": "The label for category 'Development' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Development.link.generated-index.title": {
+    "message": "Розробка",
+    "description": "The generated-index page title for category 'Development' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Development.link.generated-index.description": {
+    "message": "Дослідження, розбір конкурентів та нотатки з розробки.",
+    "description": "The generated-index page description for category 'Development' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Competitors": {
+    "message": "Конкуренти",
+    "description": "The label for category 'Competitors' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Competitors.link.generated-index.title": {
+    "message": "Конкуренти",
+    "description": "The generated-index page title for category 'Competitors' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Competitors.link.generated-index.description": {
+    "message": "Польові системи та розбори, які використовуємо як референс.",
+    "description": "The generated-index page description for category 'Competitors' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Steel Hornets": {
+    "message": "Steel Hornets",
+    "description": "The label for category 'Steel Hornets' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Model 111": {
+    "message": "Модель 111",
+    "description": "The label for category 'Model 111' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Model 222": {
+    "message": "Модель 222",
+    "description": "The label for category 'Model 222' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Nayavu": {
+    "message": "Nayavu",
+    "description": "The label for category 'Nayavu' in sidebar 'docsSidebar'"
+  }
+}
