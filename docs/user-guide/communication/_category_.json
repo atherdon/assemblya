@@ -1,0 +1,8 @@
+{
+  "label": "Communication",
+  "position": 20,
+  "link": {
+    "type": "doc",
+    "id": "user-guide/communication/readme"
+  }
+}

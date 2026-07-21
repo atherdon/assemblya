@@ -9,13 +9,13 @@ const exploreLinks = [
   {
     title: 'Mission',
     description: 'Why AssemBLYA exists, how we work, and what we optimize for.',
-    to: '/docs/outsourcing-engineering/assemblya/mission',
+    to: '/docs/getting-started/mission',
     icon: 'fa-solid fa-compass',
   },
   {
     title: 'Roadmap',
     description: 'Drop types, cost goals, and the next production milestones.',
-    to: '/docs/outsourcing-engineering/assemblya/roadmap',
+    to: '/docs/specifications/roadmap',
     icon: 'fa-solid fa-map',
   },
   {
@@ -27,7 +27,7 @@ const exploreLinks = [
   {
     title: 'Houdini',
     description: 'Garry Houdini drop documentation, imagery, and related notes.',
-    to: '/docs/outsourcing-engineering/assemblya/GarryHudini',
+    to: '/docs/specifications/systems/houdini',
     icon: 'fa-solid fa-cube',
   },
 ];
@@ -98,12 +98,12 @@ function Home(): JSX.Element {
             <div className={styles.ctaRow}>
               <Link
                 className={styles.ctaPrimary}
-                to="/docs/outsourcing-engineering/assemblya/">
+                to="/docs/getting-started/overview">
                 Read the overview
               </Link>
               <Link
                 className={styles.ctaSecondary}
-                to="/docs/outsourcing-engineering/assemblya/roadmap">
+                to="/docs/specifications/roadmap">
                 See the roadmap
               </Link>
             </div>
@@ -121,7 +121,7 @@ function Home(): JSX.Element {
               at units and partners who need reliable drop systems they can
               manufacture, repair, and scale.
             </p>
-            <Link className={styles.textLink} to="/docs/outsourcing-engineering/assemblya/mission">
+            <Link className={styles.textLink} to="/docs/getting-started/mission">
               Full mission <i className="fa-solid fa-arrow-right" aria-hidden="true" />
             </Link>
           </div>
@@ -197,12 +197,12 @@ function Home(): JSX.Element {
             is your preferred language.
           </p>
           <div className={styles.ctaRow}>
-            <Link className={styles.ctaPrimary} to="/docs/intro">
+            <Link className={styles.ctaPrimary} to="/docs/getting-started">
               Getting started
             </Link>
             <Link
               className={styles.ctaSecondary}
-              to="/docs/outsourcing-engineering/assemblya/ua">
+              to="/docs/getting-started/ua">
               Українською
             </Link>
           </div>

@@ -102,12 +102,17 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
             label: 'Docs',
           },
           {
-            to: '/docs/outsourcing-engineering/assemblya/roadmap',
+            to: '/docs/getting-started',
+            label: 'Getting Started',
+            position: 'left',
+          },
+          {
+            to: '/docs/specifications/roadmap',
             label: 'Roadmap',
             position: 'left',
           },
@@ -117,7 +122,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/outsourcing-engineering/assemblya/GarryHudini',
+            to: '/docs/specifications/systems/houdini',
             label: 'Houdini',
             position: 'left',
           },
@@ -180,11 +185,11 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/docs/intro',
+                to: '/docs/getting-started',
               },
               {
                 label: 'Roadmap',
-                to: '/docs/outsourcing-engineering/assemblya/roadmap',
+                to: '/docs/specifications/roadmap',
               },
               {
                 label: 'Competitors',
@@ -192,7 +197,7 @@ const config = {
               },
               {
                 label: 'Houdini',
-                to: '/docs/outsourcing-engineering/assemblya/GarryHudini',
+                to: '/docs/specifications/systems/houdini',
               },
             ],
           },
