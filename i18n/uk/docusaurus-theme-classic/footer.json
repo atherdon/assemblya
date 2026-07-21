@@ -31,6 +31,10 @@
     "message": "Ціни",
     "description": "The label of footer link with label=Pricing linking to /pricing"
   },
+  "link.item.label.FAQ": {
+    "message": "FAQ",
+    "description": "The label of footer link with label=FAQ linking to /faq"
+  },
   "copyright": {
     "message": "Copyright © 2026 AssemBLYA. Зроблено на Docusaurus.",
     "description": "The footer copyright"

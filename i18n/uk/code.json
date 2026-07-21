@@ -573,5 +573,17 @@
   },
   "pricing.cta.contact": {
     "message": "Звʼязатися з нами"
+  },
+  "faq.meta.title": {
+    "message": "FAQ"
+  },
+  "faq.meta.description": {
+    "message": "Часті запитання про drop-системи AssemBLYA."
+  },
+  "faq.title": {
+    "message": "FAQ"
+  },
+  "faq.lede": {
+    "message": "Поширені запитання та відповіді. Поки що текст-заглушка."
   }
 }

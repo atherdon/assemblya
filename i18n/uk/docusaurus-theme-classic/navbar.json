@@ -31,6 +31,10 @@
     "message": "Ціни",
     "description": "Navbar item with label Pricing"
   },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"

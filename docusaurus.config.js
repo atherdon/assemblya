@@ -144,6 +144,11 @@ const config = {
             position: 'left',
           },
           {
+            to: '/faq',
+            label: 'FAQ',
+            position: 'left',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
@@ -223,6 +228,10 @@ const config = {
               {
                 label: 'Pricing',
                 to: '/pricing',
+              },
+              {
+                label: 'FAQ',
+                to: '/faq',
               },
             ],
           },
