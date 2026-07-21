@@ -12,15 +12,14 @@ const config = {
   tagline: 'Documentation for AssemblyA',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://assemblya.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // GitHub Pages project site: https://atherdon.github.io/assemblya/
+  url: 'https://atherdon.github.io',
+  baseUrl: '/assemblya/',
 
   // GitHub pages deployment config.
   organizationName: 'atherdon',
   projectName: 'assemblya',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
