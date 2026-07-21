@@ -22,7 +22,6 @@ const sidebars = {
         'getting-started/intro',
         'getting-started/overview',
         'getting-started/mission',
-        'getting-started/ua',
       ],
     },
     {

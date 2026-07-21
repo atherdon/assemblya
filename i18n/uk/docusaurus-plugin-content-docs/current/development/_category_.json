@@ -1,0 +1,10 @@
+{
+  "label": "Development",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "Development",
+    "description": "Research, competitor teardowns, and development notes.",
+    "slug": "/development"
+  }
+}

@@ -11,14 +11,33 @@ npm install
 npm start
 ```
 
+### Languages (i18n)
+
+The site supports **English** (`en`, default) and **Ukrainian** (`uk`).
+
+```bash
+# Develop a specific locale
+npm start -- --locale uk
+
+# Refresh translation JSON scaffolds after UI string changes
+npm run write-translations -- --locale uk
+```
+
+- English docs live in `docs/`
+- Ukrainian doc translations live in `i18n/uk/docusaurus-plugin-content-docs/current/`
+- Navbar/footer/sidebar UI strings: `i18n/uk/docusaurus-theme-classic/` and `i18n/uk/code.json`
+- Use the navbar language dropdown to switch locales on the deployed site (`/uk/...`)
+
 ## Scripts
 
 | Command | Description |
 | --- | --- |
-| `npm start` | Start the local development server |
-| `npm run build` | Build the static site into `build/` |
+| `npm start` | Start the local development server (default locale) |
+| `npm start -- --locale uk` | Start the Ukrainian locale |
+| `npm run build` | Build all locales into `build/` |
 | `npm run serve` | Serve the production build locally |
 | `npm run clear` | Clear the Docusaurus cache |
+| `npm run write-translations -- --locale uk` | Update Ukrainian translation JSON files |
 
 ## GitHub Pages deployment
 

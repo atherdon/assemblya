@@ -1,110 +1,188 @@
 import Link from '@docusaurus/Link';
+import Translate, {translate} from '@docusaurus/Translate';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 
 import styles from './index.module.css';
 
-const exploreLinks = [
-  {
-    title: 'Mission',
-    description: 'Why AssemBLYA exists, how we work, and what we optimize for.',
-    to: '/docs/getting-started/mission',
-    icon: 'fa-solid fa-compass',
-  },
-  {
-    title: 'Roadmap',
-    description: 'Drop types, cost goals, and the next production milestones.',
-    to: '/docs/specifications/roadmap',
-    icon: 'fa-solid fa-map',
-  },
-  {
-    title: 'Competitors',
-    description: 'Teardowns and field references from Steel Hornets, Nayavu, and more.',
-    to: '/docs/competitors',
-    icon: 'fa-solid fa-binoculars',
-  },
-  {
-    title: 'Houdini',
-    description: 'Garry Houdini drop documentation, imagery, and related notes.',
-    to: '/docs/specifications/systems/houdini',
-    icon: 'fa-solid fa-cube',
-  },
-];
-
-const principles = [
-  {
-    title: 'Simpler',
-    text: 'Fewer parts, clearer assembly, faster field repair.',
-  },
-  {
-    title: 'More reliable',
-    text: 'Every generation should fail less and hold up longer.',
-  },
-  {
-    title: 'Easier to make',
-    text: 'Designed for manufacturing scale, not one-off builds.',
-  },
-  {
-    title: 'More affordable',
-    text: 'Cost comes down as the platform gets better — not the other way around.',
-  },
-];
-
-const platformItems = [
-  {
-    title: 'One modular platform',
-    text: 'Replace many specialized drop systems with a shared belly-mounted architecture.',
-  },
-  {
-    title: 'Multiple missions',
-    text: 'From 1–2.5 kg presents to dual drops, gel systems, and infantry packages.',
-  },
-  {
-    title: 'Bulk for units',
-    text: 'Built for organizations and partners — standardized production, not retail kits.',
-  },
-];
-
 function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   const heroImage = useBaseUrl('/img/hero-drop.jpg');
   const missionImage = useBaseUrl('/img/mission-field.jpg');
+  const ukGettingStarted = useBaseUrl('/docs/getting-started', {locale: 'uk'});
+
+  const exploreLinks = [
+    {
+      title: translate({id: 'home.explore.mission.title', message: 'Mission'}),
+      description: translate({
+        id: 'home.explore.mission.desc',
+        message: 'Why AssemBLYA exists, how we work, and what we optimize for.',
+      }),
+      to: '/docs/getting-started/mission',
+      icon: 'fa-solid fa-compass',
+    },
+    {
+      title: translate({id: 'home.explore.roadmap.title', message: 'Roadmap'}),
+      description: translate({
+        id: 'home.explore.roadmap.desc',
+        message: 'Drop types, cost goals, and the next production milestones.',
+      }),
+      to: '/docs/specifications/roadmap',
+      icon: 'fa-solid fa-map',
+    },
+    {
+      title: translate({
+        id: 'home.explore.competitors.title',
+        message: 'Competitors',
+      }),
+      description: translate({
+        id: 'home.explore.competitors.desc',
+        message:
+          'Teardowns and field references from Steel Hornets, Nayavu, and more.',
+      }),
+      to: '/docs/competitors',
+      icon: 'fa-solid fa-binoculars',
+    },
+    {
+      title: translate({id: 'home.explore.houdini.title', message: 'Houdini'}),
+      description: translate({
+        id: 'home.explore.houdini.desc',
+        message: 'Garry Houdini drop documentation, imagery, and related notes.',
+      }),
+      to: '/docs/specifications/systems/houdini',
+      icon: 'fa-solid fa-cube',
+    },
+  ];
+
+  const principles = [
+    {
+      title: translate({id: 'home.principle.simpler.title', message: 'Simpler'}),
+      text: translate({
+        id: 'home.principle.simpler.text',
+        message: 'Fewer parts, clearer assembly, faster field repair.',
+      }),
+    },
+    {
+      title: translate({
+        id: 'home.principle.reliable.title',
+        message: 'More reliable',
+      }),
+      text: translate({
+        id: 'home.principle.reliable.text',
+        message: 'Every generation should fail less and hold up longer.',
+      }),
+    },
+    {
+      title: translate({
+        id: 'home.principle.make.title',
+        message: 'Easier to make',
+      }),
+      text: translate({
+        id: 'home.principle.make.text',
+        message: 'Designed for manufacturing scale, not one-off builds.',
+      }),
+    },
+    {
+      title: translate({
+        id: 'home.principle.affordable.title',
+        message: 'More affordable',
+      }),
+      text: translate({
+        id: 'home.principle.affordable.text',
+        message:
+          'Cost comes down as the platform gets better — not the other way around.',
+      }),
+    },
+  ];
+
+  const platformItems = [
+    {
+      title: translate({
+        id: 'home.platform.one.title',
+        message: 'One modular platform',
+      }),
+      text: translate({
+        id: 'home.platform.one.text',
+        message:
+          'Replace many specialized drop systems with a shared belly-mounted architecture.',
+      }),
+    },
+    {
+      title: translate({
+        id: 'home.platform.missions.title',
+        message: 'Multiple missions',
+      }),
+      text: translate({
+        id: 'home.platform.missions.text',
+        message:
+          'From 1–2.5 kg presents to dual drops, gel systems, and infantry packages.',
+      }),
+    },
+    {
+      title: translate({
+        id: 'home.platform.bulk.title',
+        message: 'Bulk for units',
+      }),
+      text: translate({
+        id: 'home.platform.bulk.text',
+        message:
+          'Built for organizations and partners — standardized production, not retail kits.',
+      }),
+    },
+  ];
 
   return (
     <Layout
-      title="Modular payload delivery platform"
-      description="AssemBLYA is a veterans-led modular payload delivery platform — simpler, more reliable, and more affordable with every generation.">
+      title={translate({
+        id: 'home.meta.title',
+        message: 'Modular payload delivery platform',
+      })}
+      description={translate({
+        id: 'home.meta.description',
+        message:
+          'AssemBLYA is a veterans-led modular payload delivery platform — simpler, more reliable, and more affordable with every generation.',
+      })}>
       <main className={styles.page}>
-        <section className={styles.hero} aria-label="AssemBLYA introduction">
+        <section
+          className={styles.hero}
+          aria-label={translate({
+            id: 'home.hero.aria',
+            message: 'AssemBLYA introduction',
+          })}>
           <div
             className={styles.heroMedia}
             style={{backgroundImage: `url(${heroImage})`}}
             role="img"
-            aria-label="AssemBLYA drop system mounted under an FPV platform"
+            aria-label={translate({
+              id: 'home.hero.imageAlt',
+              message: 'AssemBLYA drop system mounted under an FPV platform',
+            })}
           />
           <div className={styles.heroVeil} />
           <div className={styles.heroInner}>
             <p className={styles.brand}>{siteConfig.title}</p>
             <h1 className={styles.headline}>
-              One modular platform.
+              <Translate id="home.hero.headline.line1">One modular platform.</Translate>
               <br />
-              Many missions.
+              <Translate id="home.hero.headline.line2">Many missions.</Translate>
             </h1>
             <p className={styles.lede}>
-              Veterans-led engineering for payload delivery that gets simpler,
-              tougher, and cheaper every generation.
+              <Translate id="home.hero.lede">
+                Veterans-led engineering for payload delivery that gets simpler,
+                tougher, and cheaper every generation.
+              </Translate>
             </p>
             <div className={styles.ctaRow}>
               <Link
                 className={styles.ctaPrimary}
                 to="/docs/getting-started/overview">
-                Read the overview
+                <Translate id="home.hero.cta.overview">Read the overview</Translate>
               </Link>
               <Link
                 className={styles.ctaSecondary}
                 to="/docs/specifications/roadmap">
-                See the roadmap
+                <Translate id="home.hero.cta.roadmap">See the roadmap</Translate>
               </Link>
             </div>
           </div>
@@ -112,23 +190,33 @@ function Home(): JSX.Element {
 
         <section className={styles.mission}>
           <div className={styles.missionCopy}>
-            <p className={styles.sectionEyebrow}>Why we build</p>
+            <p className={styles.sectionEyebrow}>
+              <Translate id="home.mission.eyebrow">Why we build</Translate>
+            </p>
             <h2 className={styles.sectionTitle}>
-              Better equipment saves lives and raises effectiveness.
+              <Translate id="home.mission.title">
+                Better equipment saves lives and raises effectiveness.
+              </Translate>
             </h2>
             <p className={styles.sectionBody}>
-              AssemBLYA is not a margin machine. It is a modular ecosystem aimed
-              at units and partners who need reliable drop systems they can
-              manufacture, repair, and scale.
+              <Translate id="home.mission.body">
+                AssemBLYA is not a margin machine. It is a modular ecosystem aimed
+                at units and partners who need reliable drop systems they can
+                manufacture, repair, and scale.
+              </Translate>
             </p>
             <Link className={styles.textLink} to="/docs/getting-started/mission">
-              Full mission <i className="fa-solid fa-arrow-right" aria-hidden="true" />
+              <Translate id="home.mission.cta">Full mission</Translate>{' '}
+              <i className="fa-solid fa-arrow-right" aria-hidden="true" />
             </Link>
           </div>
           <div className={styles.missionVisual}>
             <img
               src={missionImage}
-              alt="Concept view of AssemBLYA modular payload platform"
+              alt={translate({
+                id: 'home.mission.imageAlt',
+                message: 'Concept view of AssemBLYA modular payload platform',
+              })}
               loading="lazy"
             />
           </div>
@@ -136,16 +224,22 @@ function Home(): JSX.Element {
 
         <section className={styles.explore}>
           <div className={styles.sectionIntro}>
-            <p className={styles.sectionEyebrow}>Start exploring</p>
-            <h2 className={styles.sectionTitle}>Documentation built for builders</h2>
+            <p className={styles.sectionEyebrow}>
+              <Translate id="home.explore.eyebrow">Start exploring</Translate>
+            </p>
+            <h2 className={styles.sectionTitle}>
+              <Translate id="home.explore.title">Documentation built for builders</Translate>
+            </h2>
             <p className={styles.sectionBody}>
-              Jump straight into mission context, roadmap, competitor references,
-              or hardware notes.
+              <Translate id="home.explore.body">
+                Jump straight into mission context, roadmap, competitor references,
+                or hardware notes.
+              </Translate>
             </p>
           </div>
           <div className={styles.exploreGrid}>
             {exploreLinks.map((item) => (
-              <Link key={item.title} className={styles.exploreCard} to={item.to}>
+              <Link key={item.to} className={styles.exploreCard} to={item.to}>
                 <span className={styles.exploreIcon} aria-hidden="true">
                   <i className={item.icon} />
                 </span>
@@ -158,8 +252,12 @@ function Home(): JSX.Element {
 
         <section className={styles.principles}>
           <div className={styles.sectionIntro}>
-            <p className={styles.sectionEyebrow}>Principles</p>
-            <h2 className={styles.sectionTitle}>Every new version should be</h2>
+            <p className={styles.sectionEyebrow}>
+              <Translate id="home.principles.eyebrow">Principles</Translate>
+            </p>
+            <h2 className={styles.sectionTitle}>
+              <Translate id="home.principles.title">Every new version should be</Translate>
+            </h2>
           </div>
           <ul className={styles.principleList}>
             {principles.map((item) => (
@@ -173,11 +271,19 @@ function Home(): JSX.Element {
 
         <section className={styles.platform}>
           <div className={styles.platformIntro}>
-            <p className={styles.sectionEyebrow}>Platform</p>
-            <h2 className={styles.sectionTitle}>Built as an ecosystem, not a one-off drop</h2>
+            <p className={styles.sectionEyebrow}>
+              <Translate id="home.platform.eyebrow">Platform</Translate>
+            </p>
+            <h2 className={styles.sectionTitle}>
+              <Translate id="home.platform.title">
+                Built as an ecosystem, not a one-off drop
+              </Translate>
+            </h2>
             <p className={styles.sectionBody}>
-              Shared architecture under the drone belly. Sensors, servos, and
-              3D parts that can grow into many payload configurations.
+              <Translate id="home.platform.body">
+                Shared architecture under the drone belly. Sensors, servos, and
+                3D parts that can grow into many payload configurations.
+              </Translate>
             </p>
           </div>
           <div className={styles.platformGrid}>
@@ -191,19 +297,21 @@ function Home(): JSX.Element {
         </section>
 
         <section className={styles.closing}>
-          <h2 className={styles.closingTitle}>Ready to dig in?</h2>
+          <h2 className={styles.closingTitle}>
+            <Translate id="home.closing.title">Ready to dig in?</Translate>
+          </h2>
           <p className={styles.closingBody}>
-            Start with the overview, or open the Ukrainian mission page if that
-            is your preferred language.
+            <Translate id="home.closing.body">
+              Start with the overview, or switch to Ukrainian with the language
+              menu in the navbar.
+            </Translate>
           </p>
           <div className={styles.ctaRow}>
             <Link className={styles.ctaPrimary} to="/docs/getting-started">
-              Getting started
+              <Translate id="home.closing.cta.start">Getting started</Translate>
             </Link>
-            <Link
-              className={styles.ctaSecondary}
-              to="/docs/getting-started/ua">
-              Українською
+            <Link className={styles.ctaSecondary} to={ukGettingStarted}>
+              <Translate id="home.closing.cta.uk">Українською</Translate>
             </Link>
           </div>
         </section>
