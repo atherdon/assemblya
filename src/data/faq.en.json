@@ -1,0 +1,52 @@
+[
+  {
+    "id": "faq-1",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+    "answer": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "id": "faq-2",
+    "question": "Ut enim ad minim veniam, quis nostrud exercitation?",
+    "answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+  },
+  {
+    "id": "faq-3",
+    "question": "Duis aute irure dolor in reprehenderit in voluptate?",
+    "answer": "Sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio."
+  },
+  {
+    "id": "faq-4",
+    "question": "Excepteur sint occaecat cupidatat non proident?",
+    "answer": "Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida."
+  },
+  {
+    "id": "faq-5",
+    "question": "Curabitur pretium tincidunt lacus nulla gravida?",
+    "answer": "Donec porta diam eu massa. Quisque diam lorem, interdum vitae, dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum."
+  },
+  {
+    "id": "faq-6",
+    "question": "Integer in mauris eu nibh euismod gravida?",
+    "answer": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu."
+  },
+  {
+    "id": "faq-7",
+    "question": "Vestibulum ante ipsum primis in faucibus orci?",
+    "answer": "Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris."
+  },
+  {
+    "id": "faq-8",
+    "question": "Nam pretium turpis et arcu duis arcu tortor?",
+    "answer": "Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui."
+  },
+  {
+    "id": "faq-9",
+    "question": "Phasellus ullamcorper ipsum rutrum nunc nonummy?",
+    "answer": "Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus."
+  },
+  {
+    "id": "faq-10",
+    "question": "Aenean ut eros et nisl sagittis vestibulum?",
+    "answer": "Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi."
+  }
+]
