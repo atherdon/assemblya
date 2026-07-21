@@ -1,11 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
+title: Getting Started
+sidebar_label: Getting Started
 ---
 
-# Welcome to AssemblyA
+# Getting Started
 
-This is the documentation for AssemblyA.
+AssemBLYA documentation for the modular payload delivery platform.
 
-## Getting Started
-
-To get started, explore the documentation sections in the sidebar.
+1. Read the [Overview](./readme.md) for a short orientation
+2. Continue with [Mission](./mission.md) or [Українською](./ua.md)
+3. Check the [Roadmap](./roadmap.md) for product types and near-term work
+4. Browse competitor teardowns and hardware notes in the sidebar
