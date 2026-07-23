@@ -93,6 +93,7 @@ const sidebars = {
             slug: '/competitors',
           },
           items: [
+            'development/competitors/research',
             {
               type: 'category',
               label: 'Steel Hornets',
