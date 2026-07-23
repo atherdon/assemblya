@@ -9,49 +9,49 @@ sidebar_position: 1
 
 Галерея референсів конкурентних систем скиду та повʼязаних модулів.
 
-![система-скидання](/img/brav/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%81%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F.png)
+![Система скидання](/img/brav/drop-system.png)
 
-![кид-FPV-подвійний-до-10-кг5_AM](/img/brav/%D0%BA%D0%B8%D0%B4-FPV-%D0%BF%D0%BE%D0%B4%D0%B2%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BE-10-%D0%BA%D0%B35_AM.png)
+![FPV подвійний скид до 10 кг](/img/brav/fpv-dual-drop-10kg.png)
 
-![Універсальна-посилена-система-скиду](/img/brav/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%B0-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%81%D0%BA%D0%B8%D0%B4%D1%83.png)
+![Універсальна посилена система скиду](/img/brav/universal-reinforced-drop-system.png)
 
-![Сіткомет-Арахна](/img/brav/%D0%A1%D1%96%D1%82%D0%BA%D0%BE%D0%BC%D0%B5%D1%82-%D0%90%D1%80%D0%B0%D1%85%D0%BD%D0%B0.png)
+![Сіткомет Арахна](/img/brav/arachna-net-launcher.png)
 
-![Серворейка-з-BEC](/img/brav/%D0%A1%D0%B5%D1%80%D0%B2%D0%BE%D1%80%D0%B5%D0%B9%D0%BA%D0%B0-%D0%B7-BEC.png)
+![Серворейка з BEC](/img/brav/servo-rail-with-bec.png)
 
-![Плата-розподілу-живлення-PDBServo](/img/brav/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0-%D1%80%D0%BE%D0%B7%D0%BF%D0%BE%D0%B4%D1%96%D0%BB%D1%83-%D0%B6%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-PDBServo.png)
+![Плата розподілу живлення PDB Servo](/img/brav/pdb-servo-power-board.png)
 
-![ПГ7РКГMATRICE-300](/img/brav/%D0%9F%D0%937%D0%A0%D0%9A%D0%93MATRICE-300.png)
+![ПГ7 РКГ Matrice 300](/img/brav/pg7-rkg-matrice-300.png)
 
-![Одинарна-система-скидання-Ф1](/img/brav/%D0%9E%D0%B4%D0%B8%D0%BD%D0%B0%D1%80%D0%BD%D0%B0-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%81%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F-%D0%A41.png)
+![Одинарна система скидання Ф1](/img/brav/single-drop-system-f1.png)
 
-![Модуль-скиду-для-LuckyStrike](/img/brav/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D1%81%D0%BA%D0%B8%D0%B4%D1%83-%D0%B4%D0%BB%D1%8F-LuckyStrike.png)
+![Модуль скиду для LuckyStrike](/img/brav/luckystrike-drop-module.png)
 
-![Модуль-CAN-Servo-X4E6](/img/brav/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-CAN-Servo-X4E6.png)
+![Модуль CAN Servo X4E6](/img/brav/can-servo-module-x4e6.png)
 
-![YOYO-AUTEL-4T](/img/brav/YOYO-AUTEL-4T.png)
+![YOYO Autel 4T](/img/brav/yoyo-autel-4t.png)
 
-![PG-7-RCG-3-ПТАБMATRICE-300](/img/brav/PG-7-RCG-3-%D0%9F%D0%A2%D0%90%D0%91MATRICE-300.png)
+![PG-7 RCG-3 ПТАБ Matrice 300](/img/brav/pg7-rcg3-ptab-matrice-300.png)
 
-![OmniDrop-ий](/img/brav/OmniDrop-%D0%B8%D0%B9.png)
+![OmniDrop](/img/brav/omnidrop.png)
 
-![FPVBlueBirdTech](/img/brav/FPVBlueBirdTech.png)
+![FPV BlueBird Tech](/img/brav/fpv-bluebird-tech.png)
 
-![FPV-скид-до-10-кг](/img/brav/FPV-%D1%81%D0%BA%D0%B8%D0%B4-%D0%B4%D0%BE-10-%D0%BA%D0%B3.png)
+![FPV скид до 10 кг](/img/brav/fpv-drop-10kg.png)
 
-![FPV-дронів](/img/brav/FPV-%D0%B4%D1%80%D0%BE%D0%BD%D1%96%D0%B2.png)
+![FPV дронів](/img/brav/fpv-drones.png)
 
-![FPV-DS-2-вантажу-до-10-кг](/img/brav/FPV-DS-2-%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D1%83-%D0%B4%D0%BE-10-%D0%BA%D0%B3.png)
+![FPV DS-2 вантажу до 10 кг](/img/brav/fpv-ds2-cargo-10kg.png)
 
-![DJI-Matrice-30T](/img/brav/DJI-Matrice-30T.png)
+![DJI Matrice 30T](/img/brav/dji-matrice-30t.png)
 
-![Autel-EVO-II](/img/brav/Autel-EVO-II.png)
+![Autel EVO II](/img/brav/autel-evo-ii.png)
 
-![6-25-2026_06_35_AM](/img/brav/6-25-2026_06_35_AM.png)
+![Скріншот 2026-06-25 06:35](/img/brav/screenshot-2026-06-25-0635.png)
 
-![15-рам-гексакоптерів-Вампір-Кажан](/img/brav/15-%D1%80%D0%B0%D0%BC-%D0%B3%D0%B5%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D1%96%D0%B2-%D0%92%D0%B0%D0%BC%D0%BF%D1%96%D1%80-%D0%9A%D0%B0%D0%B6%D0%B0%D0%BD.png)
+![15 рам гексакоптерів Вампір Кажан](/img/brav/vampire-bat-15-hexacopter-frames.png)
 
-![-25-2026_06_34_AM](/img/brav/-25-2026_06_34_AM.png)
+![Скріншот 2026-06-25 06:34](/img/brav/screenshot-2026-06-25-0634.png)
 
-![скиду](/img/brav/%D1%81%D0%BA%D0%B8%D0%B4%D1%83.png)
+![Скид](/img/brav/drop-module.png)
 
