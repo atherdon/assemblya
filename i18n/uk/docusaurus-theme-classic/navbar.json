@@ -39,6 +39,10 @@
     "message": "Хронологія",
     "description": "Navbar item with label Timeline"
   },
+  "item.label.About": {
+    "message": "Про нас",
+    "description": "Navbar item with label About"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"

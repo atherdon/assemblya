@@ -1,0 +1,56 @@
+[
+  {
+    "id": "member-1",
+    "name": "Імʼя",
+    "role": "Засновник і ветеранський напрям",
+    "initials": "N1"
+  },
+  {
+    "id": "member-2",
+    "name": "Імʼя",
+    "role": "Апаратна інженерія",
+    "initials": "N2"
+  },
+  {
+    "id": "member-3",
+    "name": "Імʼя",
+    "role": "Керівник виробництва",
+    "initials": "N3"
+  },
+  {
+    "id": "member-4",
+    "name": "Імʼя",
+    "role": "3D-дизайн",
+    "initials": "N4"
+  },
+  {
+    "id": "member-5",
+    "name": "Імʼя",
+    "role": "Постачання і логістика",
+    "initials": "N5"
+  },
+  {
+    "id": "member-6",
+    "name": "Імʼя",
+    "role": "Польовий QA",
+    "initials": "N6"
+  },
+  {
+    "id": "member-7",
+    "name": "Імʼя",
+    "role": "Прошивка і електроніка",
+    "initials": "N7"
+  },
+  {
+    "id": "member-8",
+    "name": "Імʼя",
+    "role": "Партнерства",
+    "initials": "N8"
+  },
+  {
+    "id": "member-9",
+    "name": "Імʼя",
+    "role": "Операції",
+    "initials": "N9"
+  }
+]

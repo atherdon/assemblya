@@ -1,0 +1,56 @@
+[
+  {
+    "id": "member-1",
+    "name": "Name",
+    "role": "Founder & veterans lead",
+    "initials": "N1"
+  },
+  {
+    "id": "member-2",
+    "name": "Name",
+    "role": "Hardware engineering",
+    "initials": "N2"
+  },
+  {
+    "id": "member-3",
+    "name": "Name",
+    "role": "Production lead",
+    "initials": "N3"
+  },
+  {
+    "id": "member-4",
+    "name": "Name",
+    "role": "3D design",
+    "initials": "N4"
+  },
+  {
+    "id": "member-5",
+    "name": "Name",
+    "role": "Supply & logistics",
+    "initials": "N5"
+  },
+  {
+    "id": "member-6",
+    "name": "Name",
+    "role": "Field QA",
+    "initials": "N6"
+  },
+  {
+    "id": "member-7",
+    "name": "Name",
+    "role": "Firmware & electronics",
+    "initials": "N7"
+  },
+  {
+    "id": "member-8",
+    "name": "Name",
+    "role": "Partnerships",
+    "initials": "N8"
+  },
+  {
+    "id": "member-9",
+    "name": "Name",
+    "role": "Operations",
+    "initials": "N9"
+  }
+]
