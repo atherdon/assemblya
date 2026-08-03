@@ -37,11 +37,14 @@ Related notes also live under [Vampire-style system](./systems/vampire-style/rea
 
 ## Cost and scale goals
 
-- Steal good ideas, lower unit cost
-- Scale production toward 10× / 30× / 50×
-- Own dual-present system
-- Butterfly and IQOS-style dropper cages
-- Different weights and sizes of presents
+| Category | Goal / Requirement |
+|---|---|
+| **Core objective** | Adapt proven ideas to reduce unit cost. |
+| **Production scale** | Target **10×**, **30×**, and **50×** production capacity. |
+| **System ownership** | Develop and own a dual-payload drop system. |
+| **Dropper cage styles** | Explore Butterfly-style and IQOS-style dropper cages. |
+| **Payload variations** | Support presents with different weights and dimensions. |
+
 
 ## Electronics (working notes)
 
