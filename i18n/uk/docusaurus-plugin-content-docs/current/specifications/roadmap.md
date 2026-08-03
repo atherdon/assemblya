@@ -72,3 +72,83 @@ Competitor / market references:
 - [Steel Hornets DS2](https://steelhornets.com.ua/skyd-fpv-ds2/)
 
 Full competitor photo notes: [Competitors](../development/competitors/steel-hornets/readme.md).
+
+
+
+```
+---
+slug: /specifications/roadmap
+title: Дорожня карта
+sidebar_label: Дорожня карта
+sidebar_position: 1
+---
+```
+
+
+# Дорожня карта
+
+## Генеральний план
+
+![План AssemBLYA](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/plan.png)
+
+![План ітерацій](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/Itterations-Plan.png)
+
+## Типи систем скидання
+
+Цільові конфігурації корисного навантаження:
+
+1. Подарунок вагою 1 кг
+2. Подарунок вагою 2 кг
+3. Подарунок вагою 2,5 кг
+4. 2 невеликі подарунки (просте подвійне скидання)
+5. Система скидання напалму / теплого гелю
+6. Система скидання мін
+7. Система на кшталт Vampire (менший форм-фактор)
+8. Піхотні комплекти (кілька розмірів)
+
+Пов’язані нотатки також доступні в розділі [Система на кшталт Vampire](./systems/vampire-style/readme.md) та в оглядах систем конкурентів.
+
+## Складові платформи
+
+- Деталі, надруковані на 3D-принтері — див. [3D-моделі](./3d/readme.md)
+- Система скидання під корпусом дрона
+- Датчики, дроти та активатори
+- По одному сервоприводу на кожен подарунок, де це практично
+
+## Цілі щодо вартості та масштабування
+
+- Запозичувати вдалі ідеї та знижувати собівартість одиниці
+- Масштабувати виробництво до рівнів 10× / 30× / 50×
+- Розробити власну систему подвійного скидання
+- Клітки скидачів у стилі Butterfly та IQOS
+- Подарунки різної ваги та розміру
+
+## Електроніка (робочі нотатки)
+
+| Плата | Орієнтовна вартість |
+| --- | --- |
+| Клон Nano Arduino | ~80 грн |
+| Клон Micro Arduino | ~230 грн |
+
+Нотатки щодо закупівлі сервоприводів: [Замовлення](../user-guide/orders/readme.md).
+
+## Найближчі завдання
+
+- Підготувати зображення та документацію
+- Зважити корисні навантаження та масштабувати їх
+- Знайти сервоприводи
+- Провести переговори про співпрацю з іншими підрозділами
+- Виконати ітерації 3D-моделювання
+- Розібрати системи конкурентів для ознайомлення
+- Надрукувати деталі та провести стендові випробування
+
+## Посилання для довідки
+
+Посилання на конкурентів / ринок:
+
+- [Nayavu — кріплення](https://nayavu.com.ua/ua/p2711893576-kreplenie-dlya-sbrosa.html)
+- [Nayavu — Soul, 1,5 кг](https://nayavu.com.ua/ua/p2711292205-sbros-15kg-soul.html)
+- [Nayavu — Soul Eater](https://nayavu.com.ua/ua/p2711870195-sbros-soul-eater.html)
+- [Steel Hornets DS2](https://steelhornets.com.ua/skyd-fpv-ds2/)
+
+Повні нотатки з фотографіями систем конкурентів: [Конкуренти](../development/competitors/steel-hornets/readme.md).
