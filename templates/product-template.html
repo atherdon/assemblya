@@ -1,0 +1,249 @@
+<!-- Product Template Component -->
+<!-- This template can be reused for any product page by customizing the data attributes -->
+
+<style>
+    /* Base Reset & Typography */
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+        background-color: #f9f9f9;
+        color: #333;
+    }
+
+    /* Container Layout */
+    .product-container {
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        max-width: 900px;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        overflow: hidden;
+        margin: 40px auto;
+    }
+
+    /* Product Gallery */
+    .product-gallery {
+        background-color: #f1f1f1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 40px;
+        min-height: 400px;
+    }
+
+    .product-gallery img {
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+        transition: transform 0.3s ease;
+    }
+
+    .product-gallery img:hover {
+        transform: scale(1.05);
+    }
+
+    /* Product Details */
+    .product-details {
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .brand {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: #888;
+        margin-bottom: 8px;
+    }
+
+    .product-title {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #111;
+        margin-bottom: 12px;
+        line-height: 1.2;
+    }
+
+    .price-container {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 20px;
+    }
+
+    .current-price {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #2b6cb0;
+    }
+
+    .original-price {
+        font-size: 1.1rem;
+        color: #999;
+        text-decoration: line-through;
+    }
+
+    .product-description {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: #555;
+        margin-bottom: 24px;
+    }
+
+    /* Form Controls */
+    .options-group {
+        margin-bottom: 20px;
+    }
+
+    .options-label {
+        font-size: 0.85rem;
+        font-weight: 600;
+        margin-bottom: 8px;
+        display: block;
+        color: #444;
+    }
+
+    .select-input {
+        width: 100%;
+        padding: 10px 12px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        background-color: #fff;
+        font-size: 0.95rem;
+        outline: none;
+        cursor: pointer;
+        transition: border-color 0.2s ease;
+    }
+
+    .select-input:focus {
+        border-color: #2b6cb0;
+    }
+
+    /* Call To Action Button */
+    .cta-button {
+        width: 100%;
+        background-color: #111;
+        color: #fff;
+        border: none;
+        padding: 14px;
+        font-size: 1rem;
+        font-weight: 600;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+
+    .cta-button:hover {
+        background-color: #2b6cb0;
+    }
+
+    .cta-button:active {
+        transform: scale(0.98);
+    }
+
+    /* Rating Section */
+    .rating-section {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 20px;
+    }
+
+    .stars {
+        color: #ffc107;
+        font-size: 1rem;
+    }
+
+    .rating-text {
+        font-size: 0.9rem;
+        color: #666;
+    }
+
+    /* Responsive Breakpoint */
+    @media (max-width: 768px) {
+        .product-container {
+            grid-template-columns: 1fr;
+            margin: 20px;
+        }
+
+        .product-gallery {
+            padding: 20px;
+            min-height: 300px;
+        }
+
+        .product-details {
+            padding: 30px 20px;
+        }
+
+        .product-title {
+            font-size: 1.5rem;
+        }
+    }
+</style>
+
+<template id="product-template">
+    <div class="product-container">
+        <!-- Left Side: Image Gallery -->
+        <section class="product-gallery">
+            <img src="{image-url}" alt="{product-name}">
+        </section>
+
+        <!-- Right Side: Details & Actions -->
+        <section class="product-details">
+            <span class="brand">{brand-name}</span>
+            <h1 class="product-title">{product-name}</h1>
+            
+            <!-- Rating Section (Optional) -->
+            <div class="rating-section" style="display: {show-rating};">
+                <span class="stars">★★★★★</span>
+                <span class="rating-text">({rating-count} reviews)</span>
+            </div>
+
+            <!-- Price Container -->
+            <div class="price-container">
+                <span class="current-price">{current-price}</span>
+                <span class="original-price" style="display: {show-original-price};">{original-price}</span>
+            </div>
+
+            <!-- Description -->
+            <p class="product-description">{product-description}</p>
+
+            <!-- Product Options -->
+            <div class="options-group" style="display: {show-options};">
+                <label class="options-label" for="color-select">{option-label}</label>
+                <select class="select-input" id="color-select">
+                    {options-list}
+                </select>
+            </div>
+
+            <!-- Action Button -->
+            <button type="button" class="cta-button" id="add-to-cart-btn">{button-text}</button>
+        </section>
+    </div>
+</template>
+
+<!-- Usage Notes:
+    Replace the following placeholders with actual values:
+    - {image-url}: URL to product image
+    - {product-name}: Name of the product
+    - {brand-name}: Brand name
+    - {show-rating}: 'flex' or 'none'
+    - {rating-count}: Number of reviews
+    - {current-price}: Current price (e.g., "$129.00")
+    - {show-original-price}: 'inline' or 'none'
+    - {original-price}: Original price (e.g., "$159.00")
+    - {product-description}: Product description text
+    - {show-options}: 'block' or 'none'
+    - {option-label}: Label for select dropdown (e.g., "Choose Color")
+    - {options-list}: HTML option elements (e.g., <option value="black">Matte Black</option>)
+    - {button-text}: CTA button text (e.g., "Add to Cart")
+-->
