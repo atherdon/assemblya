@@ -9,9 +9,9 @@ sidebar_position: 1
 
 ## Master plan
 
-![AssemBLYA plan](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/plan.png)
+![AssemBLYA plan](https://raw.githubusercontent.com/atherdon/assemblya/main/static/img/master-plan.png)
 
-![Iterations plan](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/Itterations-Plan.png)
+![Iterations plan](https://raw.githubusercontent.com/atherdon/assemblya/main/static/img/Itterations-Plan.png)
 
 ## Drop system types
 
