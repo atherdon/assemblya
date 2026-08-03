@@ -65,6 +65,19 @@ Servo sourcing notes: [Orders](../user-guide/orders/readme.md).
 - Disassemble competitor systems for reference
 - Print parts and run bench tests
 
+## Near-term work
+
+| Workstream | Activities |
+|---|---|
+| **Imagery and documentation** | Prepare product imagery, technical documentation, and reference materials. |
+| **Payload characterization** | Weigh payloads and evaluate their dimensions, balance, and scalability. |
+| **Actuation components** | Source suitable servos and assess their performance, availability, and integration requirements. |
+| **Cross-unit collaboration** | Conduct discussions with other units to identify partnership opportunities, shared requirements, and technical dependencies. |
+| **3D modeling** | Develop and iterate 3D models based on test results, fit checks, and design feedback. |
+| **Competitive benchmarking** | Disassemble competitor systems for reference, with appropriate attention to safety and legal considerations. |
+| **Prototyping and testing** | Print prototype parts and conduct bench tests to evaluate fit, function, durability, and repeatability. |
+
+
 ## Reference links
 
 Competitor / market references:
