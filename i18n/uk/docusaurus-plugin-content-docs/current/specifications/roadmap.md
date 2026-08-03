@@ -10,9 +10,10 @@ sidebar_position: 1
 
 ## Генеральний план
 
-![План AssemBLYA](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/plan.png)
+![План AssemBLYA](https://raw.githubusercontent.com/atherdon/assemblya/main/static/img/master-plan.png)
 
-![План ітерацій](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/Itterations-Plan.png)
+
+![План ітерацій](https://raw.githubusercontent.com/atherdon/assemblya/main/static/img/Itterations-Plan.png)
 
 ## Типи систем скидання
 
