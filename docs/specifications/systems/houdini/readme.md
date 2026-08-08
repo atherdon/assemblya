@@ -22,7 +22,7 @@ sidebar_position: 10
 ## Images
 
 
-
+<!--
 ### How it looks
 ![IMG-20260626-WA0193](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/main/static/img/houdini/IMG-20260626-WA0193.jpg)
 
@@ -32,6 +32,8 @@ sidebar_position: 10
 
 
 ---
+
+-->
 
 ### Basic testing workflow
 ![hudini-drop-v1-img1](./images/hudini-drop-v1-img1.jpg)
@@ -64,6 +66,7 @@ sidebar_position: 10
 
 ---
 
+<!--
 
 ### three 
 
@@ -103,4 +106,4 @@ sidebar_position: 10
 
 ---
 
-
+-->
