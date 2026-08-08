@@ -1,7 +1,7 @@
 ---
 slug: /specifications/systems/model-222/dissasembled
-title: Disassembled 222 Drop System
-sidebar_label: Disassembled 222
+title: Disassembled Drop System
+sidebar_label: Disassembled
 sidebar_position: 10
 ---
 
