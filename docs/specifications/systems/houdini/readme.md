@@ -5,14 +5,23 @@ sidebar_label: Garry Houdini
 sidebar_position: 10
 ---
 
-# GarryHoudini [Dua Lipa Houdini](https://www.youtube.com/watch?v=suAR1PYFNYA)
+# GarryHoudini 
+
+
+### [Dua Lipa Houdini](https://www.youtube.com/watch?v=suAR1PYFNYA)
 
 
 ## Заявка на закупівлю 10-20-30 скидів
-[Роби заявку на скиди та не зайобуй](https://form.typeform.com/to/kMUOiOje)
+### [Роби заявку на скиди та не зайобуй](https://form.typeform.com/to/kMUOiOje)
 
+
+### Відео використання системи скиду
+
+[VID_20260624_194649.mp4](https://www.dropbox.com/scl/fi/bk6901pww2yq3s7gol0ix/VID_20260624_194649.mp4?rlkey=rn5peci3p5bhkhaq3n58mawxj&st=fx98cweo&dl=0)
 
 ## Images
+
+
 
 ### How it looks
 ![IMG-20260626-WA0193](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/main/static/img/houdini/IMG-20260626-WA0193.jpg)
@@ -94,6 +103,4 @@ sidebar_position: 10
 
 ---
 
-### Відео використання системи скиду
 
-[VID_20260624_194649.mp4](https://www.dropbox.com/scl/fi/bk6901pww2yq3s7gol0ix/VID_20260624_194649.mp4?rlkey=rn5peci3p5bhkhaq3n58mawxj&st=fx98cweo&dl=0)
