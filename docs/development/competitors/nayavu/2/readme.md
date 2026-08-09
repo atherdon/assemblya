@@ -9,7 +9,7 @@ sidebar_position: 10
 
 ## Images
 
-![nayavu-2-img1](/img/nayavy/one-drop-soul-eater/nayavu-2-img1.jpg)
+<!-- ![nayavu-2-img1](/img/nayavy/one-drop-soul-eater/nayavu-2-img1.jpg) -->
 
 ![nayavu-2-img2](/img/nayavy/one-drop-soul-eater/nayavu-2-img2.jpg)
 

@@ -5,7 +5,7 @@ sidebar_label: Butterfly Mine
 sidebar_position: 10
 ---
 
-![IMG-20260625-WA0113](/img/houdini/butterly/IMG-20260625-WA0113.jpg)
+<!-- ![IMG-20260625-WA0113](/img/houdini/butterly/IMG-20260625-WA0113.jpg) -->
 
 ![IMG-20260625-WA0114](/img/houdini/butterly/IMG-20260625-WA0114.jpg)
 
