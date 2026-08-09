@@ -150,7 +150,6 @@ const sidebars = {
             'development/competitors/nazarium/readme',
             'development/competitors/butterfly-case/readme',
             'development/competitors/vaaamp-drop/readme',
-            'development/competitors/rm',
           ],
         },
       ],
