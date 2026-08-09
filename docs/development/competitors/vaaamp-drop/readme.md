@@ -8,7 +8,7 @@ sidebar_position: 40
 # Vaaamp Drop
 
 ## Images
-replace paths to /img/nazarium 
-![vaaamp-drop-img1](./images/vaaamp-drop-img1.jpg)
 
-![vaaamp-drop-img2](./images/vaaamp-drop-img2.jpg)
+![vaaamp-drop-img1](/img/vampire/vaaamp-drop-img1.jpg)
+
+![vaaamp-drop-img2](/img/vampire/vaaamp-drop-img2.jpg)
