@@ -6,7 +6,7 @@ sidebar_position: 20
 ---
 
 # xxx
-
+replace paths to /img/nazarium 
 <img src="images/steel-hornets-111-img20.jpg" alt="Jun 21, 2026, 10_02_36 PM" width="400" />
 
 <img src="images/steel-hornets-111-img19.jpg" alt="Jun 21, 2026, 10_02_33 PM" width="400" />

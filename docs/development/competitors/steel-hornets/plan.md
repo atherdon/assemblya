@@ -12,12 +12,6 @@ sidebar_position: 60
 5. Then we upload to github
 
 
-- https://steelhornets.com.ua/skyd-fpv-ds3/
-
-- https://steelhornets.com.ua/skyd-fpv-ds1/
-
-- https://steelhornets.com.ua/skyd-fpv-ds2/
-
 
 Collect mone and order 3 drop systems to
 - Teufel
@@ -32,6 +26,8 @@ Collect mone and order 3 drop systems to
 
 2 drop systems goes to Florida man into this address
 1 drop goes to 3d print-farm
+
+
 <!--
 Benjamin Hoerber
 380975827150 
