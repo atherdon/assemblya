@@ -28,7 +28,7 @@ sidebar_position: 10
 ![xxx](https://images.prom.ua/6790714066_w1280_h1280_photo_2025_08_09_14_03_18.jpg?fresh=1)
 
 
-
+```
 LUCKY STRIKE АБО ІНШИХ АДАПТЕРІВ
 Каталог
 Контакти
@@ -47,7 +47,7 @@ Youtube
 https://www.youtube.com/@nayavu1043
 Facebook
 https://www.facebook.com/people/Nayavu-Additive-manufacturer/100086177952916/
-Ви переглядали
+```
 
 Скидання до 15 кг Soul Eater Пожирач душ для FPV на рамах XL10, Mark 4, Lucky Strike або інших адаптерів
 985 ₴
