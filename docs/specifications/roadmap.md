@@ -9,9 +9,12 @@ sidebar_position: 1
 
 ## Master plan
 
-![AssemBLYA plan](https://raw.githubusercontent.com/atherdon/assemblya/main/static/img/master-plan.png)
+![AssemBLYA plan](/img/plan/MainPlan.jpg)
 
-![Iterations plan](https://raw.githubusercontent.com/atherdon/assemblya/main/static/img/Itterations-Plan.png)
+![Iterations plan](/img/plan/ItterationsPlan.jpg)
+
+
+
 
 ## Drop system types
 
