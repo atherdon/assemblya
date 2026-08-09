@@ -11,28 +11,28 @@ sidebar_position: 10
 
 ## Images
 
-![steel-hornets-cheap-steal-img1](./images/steel-hornets-cheap-steal-img1.jpg)
+![steel-hornets-cheap-steal-img1](/img/hornets/cheap/steel-hornets-cheap-steal-img1.jpg)
 
-![steel-hornets-cheap-steal-img2](./images/steel-hornets-cheap-steal-img2.jpg)
+![steel-hornets-cheap-steal-img2](/img/hornets/cheap/steel-hornets-cheap-steal-img2.jpg)
 
-![steel-hornets-cheap-steal-img3](./images/steel-hornets-cheap-steal-img3.jpg)
+![steel-hornets-cheap-steal-img3](/img/hornets/cheap/steel-hornets-cheap-steal-img3.jpg)
 
-![steel-hornets-cheap-steal-img4](./images/steel-hornets-cheap-steal-img4.jpg)
+![steel-hornets-cheap-steal-img4](/img/hornets/cheap/steel-hornets-cheap-steal-img4.jpg)
 
-![steel-hornets-cheap-steal-img5](./images/steel-hornets-cheap-steal-img5.jpg)
+![steel-hornets-cheap-steal-img5](/img/hornets/cheap/steel-hornets-cheap-steal-img5.jpg)
 
-![steel-hornets-cheap-steal-img6](./images/steel-hornets-cheap-steal-img6.jpg)
+![steel-hornets-cheap-steal-img6](/img/hornets/cheap/steel-hornets-cheap-steal-img6.jpg)
 
-![steel-hornets-cheap-steal-img7](./images/steel-hornets-cheap-steal-img7.jpg)
+![steel-hornets-cheap-steal-img7](/img/hornets/cheap/steel-hornets-cheap-steal-img7.jpg)
 
-![steel-hornets-cheap-steal-img8](./images/steel-hornets-cheap-steal-img8.jpg)
+![steel-hornets-cheap-steal-img8](/img/hornets/cheap/steel-hornets-cheap-steal-img8.jpg)
 
-![steel-hornets-cheap-steal-img9](./images/steel-hornets-cheap-steal-img9.jpg)
+![steel-hornets-cheap-steal-img9](/img/hornets/cheap/steel-hornets-cheap-steal-img9.jpg)
 
-![steel-hornets-cheap-steal-img10](./images/steel-hornets-cheap-steal-img10.jpg)
+![steel-hornets-cheap-steal-img10](/img/hornets/cheap/steel-hornets-cheap-steal-img10.jpg)
 
-![steel-hornets-cheap-steal-img11](./images/steel-hornets-cheap-steal-img11.jpg)
+![steel-hornets-cheap-steal-img11](/img/hornets/cheap/steel-hornets-cheap-steal-img11.jpg)
 
-![steel-hornets-cheap-steal-img12](./images/steel-hornets-cheap-steal-img12.jpg)
+![steel-hornets-cheap-steal-img12](/img/hornets/cheap/steel-hornets-cheap-steal-img12.jpg)
 
-![steel-hornets-cheap-steal-img13](./images/steel-hornets-cheap-steal-img13.jpg)
+![steel-hornets-cheap-steal-img13](/img/hornets/cheap/steel-hornets-cheap-steal-img13.jpg)
