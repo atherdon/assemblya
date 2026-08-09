@@ -6,7 +6,7 @@ sidebar_position: 10
 ---
 
 <!-- ![IMG-20260625-WA0113](/img/houdini/butterly/IMG-20260625-WA0113.jpg) -->
-
+<!-- 
 ![IMG-20260625-WA0114](/img/houdini/butterly/IMG-20260625-WA0114.jpg)
 
 ![IMG-20260625-WA0115](/img/houdini/butterly/IMG-20260625-WA0115.jpg)
@@ -25,4 +25,4 @@ sidebar_position: 10
 
 ![IMG-20260625-WA0124](/img/houdini/butterly/IMG-20260625-WA0124.jpg)
 
-![IMG-20260625-WA0125](/img/houdini/butterly/IMG-20260625-WA0125-jpg-06-25-2026_11_29_PM.png)
+![IMG-20260625-WA0125](/img/houdini/butterly/IMG-20260625-WA0125-jpg-06-25-2026_11_29_PM.png) -->
