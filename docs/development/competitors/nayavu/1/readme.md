@@ -11,7 +11,7 @@ sidebar_position: 10
 
 <!-- ![nayavu-1-img1](/img/nayavy/one-drop-v2/nayavu-1-img1.jpg) -->
 
-![nayavu-1-img2](/img/nayavy/one-drop-v2/nayavu-1-img2.jpg)
+<!-- ![nayavu-1-img2](/img/nayavy/one-drop-v2/nayavu-1-img2.jpg)
 
 ![nayavu-1-img3](/img/nayavy/one-drop-v2/nayavu-1-img3.jpg)
 
@@ -27,4 +27,4 @@ sidebar_position: 10
 
 ![nayavu-1-img9](/img/nayavy/one-drop-v2/nayavu-1-img9.jpg)
 
-![nayavu-1-img10](/img/nayavy/one-drop-v2/nayavu-1-img10.jpg)
+![nayavu-1-img10](/img/nayavy/one-drop-v2/nayavu-1-img10.jpg) -->
