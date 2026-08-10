@@ -22,8 +22,8 @@
   },
   {
     "id": "member-4",
-    "name": "Name",
-    "role": "3D design",
+    "name": "Vit",
+    "role": "3D design, Adviser",
     "initials": "N4",
     "image": "img/about-us/archer.png"
   },
@@ -57,14 +57,14 @@
   },
   {
     "id": "member-9",
-    "name": "Name",
+    "name": "Vad",
     "role": "Operations",
     "initials": "N9",
     "image": "img/about-us/rogach.png"
   },
   {
     "id": "member-10",
-    "name": "Name",
+    "name": "Lighthouse",
     "role": "Operations",
     "initials": "N10",
     "image": "img/about-us/trident.png"
