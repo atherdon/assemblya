@@ -4,42 +4,42 @@
     "name": "Name",
     "role": "Founder & veterans lead",
     "initials": "N1",
-    "image": "Git.jpg"
+    "image": "img/about-us/Git.jpg"
   },
   {
     "id": "member-2",
     "name": "Name",
     "role": "Hardware engineering",
     "initials": "N2",
-    "image": "OL.jpg"
+    "image": "img/about-us/OL.jpg"
   },
   {
     "id": "member-3",
     "name": "Name",
     "role": "Production lead",
     "initials": "N3",
-    "image": "OWL.jpg"
+    "image": "img/about-us/OWL.jpg"
   },
   {
     "id": "member-4",
     "name": "Name",
     "role": "3D design",
     "initials": "N4",
-    "image": "archer.png"
+    "image": "img/about-us/archer.png"
   },
   {
     "id": "member-5",
     "name": "Name",
     "role": "Supply & logistics",
     "initials": "N5",
-    "image": "girl2.png"
+    "image": "img/about-us/girl2.png"
   },
   {
     "id": "member-6",
     "name": "Name",
     "role": "Field QA",
     "initials": "N6",
-    "image": "girl3.png"
+    "image": "img/about-us/girl3.png"
   },
   {
     "id": "member-7",
