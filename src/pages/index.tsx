@@ -163,7 +163,7 @@ function Home(): JSX.Element {
           <div className={styles.heroInner}>
             <p className={styles.brand}>{siteConfig.title}</p>
             <h2 className={styles.headline}>
-              <Translate id="home.hero.headline.line1">One modular platform.</Translate>
+              <Translate id="home.hero.headline.line1">One modular platform. </Translate>
               
               <Translate id="home.hero.headline.line2">Many missions.</Translate>
             </h2>
@@ -190,7 +190,26 @@ function Home(): JSX.Element {
             </div>
           </div>
         </section>
+ <section className={styles.mission}>
+   <div className={styles.missionCopy}>
+            <p className={styles.sectionEyebrow}>
+              <Translate id="home.mission.eyebrow">Veterans-led engineering</Translate>
 
+ 
+            </p>
+            <h2 className={styles.sectionTitle}>
+              <Translate id="home.mission.title">
+                Payload delivery system that gets simpler, tougher, and cheaper every generation.
+              </Translate>
+            </h2> 
+     <p className={styles.sectionBody}>
+              <Translate id="home.mission.body">
+               One modular platform. <br/>
+                Many missions.
+              </Translate>
+            </p>
+   </div>
+ </section>
         <section className={styles.mission}>
           <div className={styles.missionCopy}>
             <p className={styles.sectionEyebrow}>
