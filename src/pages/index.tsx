@@ -161,8 +161,8 @@ function Home(): JSX.Element {
           />
           <div className={styles.heroVeil} />
           <div className={styles.heroInner}>
-            <p className={styles.brand}>{siteConfig.title}</p>
-            <h2 className={styles.headline}>
+            {/*<p className={styles.brand}>{siteConfig.title}</p>*/}
+           {/* <h2 className={styles.headline}>
               <Translate id="home.hero.headline.line1">One modular platform. </Translate>
               
               <Translate id="home.hero.headline.line2">Many missions.</Translate>
@@ -174,7 +174,7 @@ function Home(): JSX.Element {
             </p>
             <p className={styles.lede}><Translate id="home.hero.lede">
                 Payload delivery system that gets simpler, tougher, and cheaper every generation.
-              </Translate></p>
+              </Translate></p>*/}
             
             <div className={styles.ctaRow}>
               <Link
