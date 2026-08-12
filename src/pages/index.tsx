@@ -8,7 +8,7 @@ import styles from './index.module.css';
 
 function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
-  const heroImage = useBaseUrl('/img/hero-drop.jpg');
+  const heroImage = useBaseUrl('/img/social/hero-unit.png');
   const missionImage = useBaseUrl('/img/mission-field.jpg');
   const ukGettingStarted = useBaseUrl('/docs/getting-started', {locale: 'uk'});
 
