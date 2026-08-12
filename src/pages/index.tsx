@@ -204,8 +204,7 @@ function Home(): JSX.Element {
             </h2> 
      <p className={styles.sectionBody}>
               <Translate id="home.mission.body">
-               One modular platform. <br/>
-                Many missions.
+               One modular platform. Many missions.
               </Translate>
             </p>
    </div>
