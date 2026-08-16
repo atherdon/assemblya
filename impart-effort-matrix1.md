@@ -255,5 +255,136 @@ On a scale of 1–10, how much effort do you think remains?
 7
 
 
+----
 
+
+1. What is the project called, and what is its main goal?
+
+2. Who benefits from this project?
+For example: customers, your team, a community, a specific group, or yourself.
+
+3. What problem does it solve, or what opportunity does it create?
+
+4. What would be the positive impact if it succeeds?
+Consider revenue, time saved, reach, learning, reputation, social value, or other benefits.
+
+5. How many people might it affect, and how significantly?
+
+6. How urgent is it?
+
+7. What happens if you delay it by a month, six months, or a year?
+
+8. What progress has already been made?
+
+9. What still needs to be done before it produces meaningful results?
+
+10. How difficult would the remaining work be?
+Consider complexity, uncertainty, technical challenges, and coordination.
+
+11. What resources would it require?
+Include time, money, people, skills, equipment, and attention.
+
+12. Are there major dependencies or blockers?
+
+13. What is the smallest version of this project that could create useful impact?
+
+14. How confident are you that you can complete it?
+Low, medium, or high—and why?
+
+
+
+On a scale of 1–10, how important is this project to you?
+
+On a scale of 1–10, how much effort do you think remains?
+
+---
+
+
+1. What is the project called, and what is its main goal?
+   Assemblya drop system for drones
+
+
+3. Who benefits from this project?
+we will have some work
+customers will benefit if we will be able to sell it in bulk
+
+
+
+5. What problem does it solve, or what opportunity does it create?
+current products arent evolve and our goal to disrupt the market if we will be allowed to do
+
+
+6. What would be the positive impact if it succeeds?
+
+
+Consider revenue - by selling on a scale i want to eat some of a pie
+time saved - can make it happen
+reach - we need to attach a specialized category of drones
+learning - we need to make it happen so we know that we can do even harder projects, that requre more and more
+reputation - it will be very fun
+social value - because of it will be a veteran business - will be cool for a karma
+ other benefits - if we will be able to sell first 100 ill consider it as a success.
+
+
+ 
+
+
+
+7. How many people might it affect, and how significantly?
+for 100 drop systems about 30-50 people
+
+
+
+8. How urgent is it?
+not urgent but we can make it quicier than a charging station project
+
+
+
+9. What happens if you delay it by a month, six months, or a year?
+
+nothing appens, but we will lose money. 
+
+
+10. What progress has already been made?
+we started to reverce engineer the first drop system and also taking hands on the second separate product that we are trying to replicate
+
+
+
+11. What still needs to be done before it produces meaningful results?
+
+selling 2-3 batches of minumum 10 pieces each sell
+
+
+12. How difficult would the remaining work be?
+Consider complexity, uncertainty, technical challenges, and coordination.
+
+
+
+
+13. What resources would it require?
+Include time, money, people, skills, equipment, and attention.
+
+
+
+
+14. Are there major dependencies or blockers?
+
+
+
+
+15. What is the smallest version of this project that could create useful impact?
+
+
+
+
+16. How confident are you that you can complete it?
+Low, medium, or high—and why?
+
+
+
+
+On a scale of 1–10, how important is this project to you?
+
+
+On a scale of 1–10, how much effort do you think remains?
 
