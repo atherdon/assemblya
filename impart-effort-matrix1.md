@@ -1,0 +1,189 @@
+project 1
+
+1. What is the project called, and what is its main goal?
+Physicist charging station
+
+2. Who benefits from this project?
+for now my friends will benefit because they will get a job.
+our teammates will benefit because the result will be cheaper.
+can benefit to other units as well, but we need to scale it first.
+
+3. What problem does it solve, or what opportunity does it create?
+reducing the price of charging stations that are on the market right now.
+
+4. What would be the positive impact if it succeeds?
+we will generate more jobs, save time of our volonteers, expanding my impact in the army
+'ll use skills of my friends - generate them money and we will spend more time together
+
+
+5. How many people might it affect, and how significantly?
+depends on a scale. right now like 3-5 people. but each product that was shipped will impact lives of 3 people.
+
+6. How urgent is it?
+very urgent as soon winter will strike and this station can have an additional demand
+
+7. What happens if you delay it by a month, six months, or a year?
+its already have a huge delay so im very upset about it
+
+8. What progress has already been made?
+we purchased a lot of wires, so it mostly slowing down because my friends are busy with their lives
+
+9. What still needs to be done before it produces meaningful results?
+we need to make first 10 products and then think about scaling and selling items
+
+10. How difficult would the remaining work be?
+first version is not complex. But we need to figure out a few kinks in order to move forward.
+Most problems was related to purchasing materials, now its time to asssembly everything together and show the working prototype
+For some reasons its hard to work with friends, so im considering
+
+
+11. What resources would it require?
+it will require a constant ordering of materials from Europe and it will cause an additional delays.
+but without showing a constant progress - we cant move forward very quickly.
+
+people - im considering hiring people to speed the things up
+skills - my skills in project management helps, but we lack sales
+equimpment - great equipment costs money but 
+attention - spending to much energy on myself without a lot of results. basically stuck
+
+12. Are there major dependencies or blockers?
+First blocker establishing an ongoing work for upcoming months, second is materials and third is materials
+
+13. What is the smallest version of this project that could create useful impact?
+first 10 charging stations with a simple just-make-it-work
+
+14. How confident are you that you can complete it?
+
+high, but i need to adjust most of the cycles here
+
+
+
+Impact–Effort Matrix
+Area	Assessment
+Potential impact	High if scaled; initially benefits 3–5 people directly and approximately 3 people per station shipped
+Urgency	Very high because winter may increase demand
+Effort remaining	Moderate for the prototype; higher for scaling, sales, materials, and production
+Confidence	High, provided the work cycles and team structure are adjusted
+Smallest useful version	Build and test the first 10 simple, functional charging stations
+Current stage	Materials have been purchased; assembly and prototype completion remain
+Main blockers	Lack of consistent work structure, friends’ availability, material procurement, delays, and lack of sales capacity
+Required resources	Additional materials from Europe, reliable assembly capacity, possible hires, project-management attention, and sales skills
+Delay risk	A delay may cause missed winter demand, continued frustration, lost volunteer time, and slower job creation
+Strategic value	Creates jobs, reduces charging-station costs, supports teammates and military units, and can become a scalable product
+Recommended priority
+High impact / moderate effort — prioritize immediately.
+
+The best next objective is not full commercialization. It is:
+
+Complete, test, and document the first 10 working charging stations.
+
+That milestone will help you determine whether the project is ready for scaling, hiring, sales, and broader deployment.
+
+Suggested next steps
+Define the exact specification for the first version.
+List all missing materials and order them together.
+Assign clear responsibilities and deadlines.
+Decide whether friends remain the production team or whether you hire help.
+Set a short assembly sprint to complete the prototype.
+Test the first unit under realistic conditions.
+Document the design, assembly process, cost, and issues.
+Produce the remaining nine units.
+Only then evaluate scaling and sales.
+One important observation: the main challenge does not appear to be technical complexity. It is coordination and sustained execution. Your matrix should therefore treat team availability and operating structure as major effort factors.
+
+
+
+
+
+
+---
+
+
+1. What is the project called, and what is its main goal?
+
+2. Who benefits from this project?
+For example: customers, your team, a community, a specific group, or yourself.
+
+3. What problem does it solve, or what opportunity does it create?
+
+4. What would be the positive impact if it succeeds?
+Consider revenue, time saved, reach, learning, reputation, social value, or other benefits.
+
+5. How many people might it affect, and how significantly?
+
+6. How urgent is it?
+
+7. What happens if you delay it by a month, six months, or a year?
+
+8. What progress has already been made?
+
+9. What still needs to be done before it produces meaningful results?
+
+10. How difficult would the remaining work be?
+Consider complexity, uncertainty, technical challenges, and coordination.
+
+11. What resources would it require?
+Include time, money, people, skills, equipment, and attention.
+
+12. Are there major dependencies or blockers?
+
+13. What is the smallest version of this project that could create useful impact?
+
+14. How confident are you that you can complete it?
+Low, medium, or high—and why?
+
+
+
+On a scale of 1–10, how important is this project to you?
+
+On a scale of 1–10, how much effort do you think remains?
+
+
+-----------
+
+1. What is the project called, and what is its main goal?
+
+2. Who benefits from this project?
+For example: customers, your team, a community, a specific group, or yourself.
+
+3. What problem does it solve, or what opportunity does it create?
+
+4. What would be the positive impact if it succeeds?
+Consider revenue, time saved, reach, learning, reputation, social value, or other benefits.
+
+5. How many people might it affect, and how significantly?
+
+6. How urgent is it?
+
+7. What happens if you delay it by a month, six months, or a year?
+
+8. What progress has already been made?
+
+9. What still needs to be done before it produces meaningful results?
+
+10. How difficult would the remaining work be?
+Consider complexity, uncertainty, technical challenges, and coordination.
+
+11. What resources would it require?
+Include time, money, people, skills, equipment, and attention.
+
+12. Are there major dependencies or blockers?
+
+13. What is the smallest version of this project that could create useful impact?
+
+14. How confident are you that you can complete it?
+Low, medium, or high—and why?
+
+
+
+On a scale of 1–10, how important is this project to you?
+
+On a scale of 1–10, how much effort do you think remains?
+
+
+
+On a scale of 1–10, how important is this project to you?
+
+On a scale of 1–10, how much effort do you think remains?
+
+
