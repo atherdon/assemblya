@@ -184,16 +184,17 @@ On a scale of 1–10, how much effort do you think remains?
 -----
 
 
-
+project 2
 
 1. What is the project called, and what is its main goal?
 RC Girl online shop
-2. Who benefits from this project?
+
+3. Who benefits from this project?
 customers that we aware of
 still will generate some jobs and a work for my close friends
 and i want to make it work - i have some personal matters
 
-4. What problem does it solve, or what opportunity does it create?
+5. What problem does it solve, or what opportunity does it create?
 it will ease the purchase of some parts for a work that im doing and other teams.
 without this products - it will require a lot of time to make on your own.
 plus its cheaper and easier to produce. online shop can be a source of leads and a source of quick money
@@ -238,10 +239,11 @@ there a lot of back-and-forths chats with potential buyers. so i think someone e
 Before selling something cheaply - we need to buy some equipment with our own money. So it will require our own resources to make it work.
 
 16. Are there major dependencies or blockers?
+    i dont want to sell dead products. so everything will be produced in a small amounts first to test the market needs
 
-17. What is the smallest version of this project that could create useful impact?
+18. What is the smallest version of this project that could create useful impact?
 
-18. How confident are you that you can complete it?
+19. How confident are you that you can complete it?
 Low, medium, or high—and why?
 
 
