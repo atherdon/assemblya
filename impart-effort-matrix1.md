@@ -181,6 +181,78 @@ On a scale of 1–10, how important is this project to you?
 On a scale of 1–10, how much effort do you think remains?
 
 
+-----
+
+
+
+
+1. What is the project called, and what is its main goal?
+RC Girl online shop
+2. Who benefits from this project?
+customers that we aware of
+still will generate some jobs and a work for my close friends
+and i want to make it work - i have some personal matters
+
+4. What problem does it solve, or what opportunity does it create?
+it will ease the purchase of some parts for a work that im doing and other teams.
+without this products - it will require a lot of time to make on your own.
+plus its cheaper and easier to produce. online shop can be a source of leads and a source of quick money
+
+
+6. What would be the positive impact if it succeeds?
+   Because we have that others dont, we can sell it with a big margin. Still will require some initial investments, but not much.
+   Same with space in storage - take a small amount of space.
+
+   reach - a lot of teams can be reached via Instagram, but its only my assumption.
+   Still i have other friends that i can give away our products even for free.
+
+   reputation - all of my projects can work together and solidify the position of each project.
+   same with traffic and leads.
+
+we can generate around 500 bucks of profits each month without putting a lot of amount of time and money.
+
+   
+8. How many people might it affect, and how significantly?
+not a huge impact but low effort
+
+
+9. How urgent is it?
+as it is the quickiest way to get some money back - its very urgent. we need to test this assumption and adapt it with a market need.
+
+
+10. What happens if you delay it by a month, six months, or a year?
+it will make me very angry. as im taking it personally
+
+11. What progress has already been made?
+we have a lot of things that we already can sell.
+
+
+12. What still needs to be done before it produces meaningful results?
+we need to have more materials and deliver some stuff back.
+
+13. How difficult would the remaining work be?
+scaling as usually is hard, because we will need to compete with other online shops//
+there a lot of back-and-forths chats with potential buyers. so i think someone else might make connections and talk with normal people
+
+15. What resources would it require?
+Before selling something cheaply - we need to buy some equipment with our own money. So it will require our own resources to make it work.
+
+16. Are there major dependencies or blockers?
+
+17. What is the smallest version of this project that could create useful impact?
+
+18. How confident are you that you can complete it?
+Low, medium, or high—and why?
+
+
+
+On a scale of 1–10, how important is this project to you?
+
+On a scale of 1–10, how much effort do you think remains?
+
+
+
+
 
 On a scale of 1–10, how important is this project to you?
 
