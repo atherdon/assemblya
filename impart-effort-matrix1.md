@@ -242,22 +242,18 @@ Before selling something cheaply - we need to buy some equipment with our own mo
     i dont want to sell dead products. so everything will be produced in a small amounts first to test the market needs
 
 18. What is the smallest version of this project that could create useful impact?
+we can sell simple wires. or flags. so we will not be overwheled with different products and can do a quick cycle - build it - sell it - ship it.
 
 19. How confident are you that you can complete it?
-Low, medium, or high—and why?
-
-
+Medium as its more like an assumption. But we need to focus on sales
 
 On a scale of 1–10, how important is this project to you?
+9
+
 
 On a scale of 1–10, how much effort do you think remains?
+7
 
 
-
-
-
-On a scale of 1–10, how important is this project to you?
-
-On a scale of 1–10, how much effort do you think remains?
 
 
