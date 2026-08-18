@@ -1,36 +1,71 @@
 [
   {
-    "year": "1983",
+    "year": "April 2024",
     "items": [
       {
         "id": "1983-1",
-        "title": "Title",
-        "body": "Lorem ipsum dolor sit amet."
+        "title": "April 2024 — Bomber Operations Begin",
+        "body": "Our first bomber operations get underway."
       }
     ]
   },
   {
-    "year": "1984",
+    "year": "May 2024",
     "items": [
       {
         "id": "1984-1",
-        "title": "Title",
-        "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "title": "May 2024 — Solo Bomber Operations",
+        "body": "10–15 flights per night, delivering “presents” to the enemy."
       },
       {
         "id": "1984-2",
-        "title": "Title",
-        "body": "Lorem ipsum dolor sit amet."
+        "title": "July 2024 — The Vampire Arrives",
+        "body": "The Vampire team begins operations, bringing a whole new scale of “presents.”"
+      },
+      {
+        "id": "1984-2",
+        "title": "July 2024 — The Vampire Arrives",
+        "body": "The Vampire team begins operations, bringing a whole new scale of “presents.”"
+      },
+      {
+        "id": "1984-2",
+        "title": "November 2024 — Operations Continue",
+        "body": "Regular drops continue and the complexity of missions keeps growing."
+      },
+      {
+        "id": "1984-2",
+        "title": "January–April 2025 — Team Expansion",
+        "body": "The Vampire team expands, taking on increasingly complex tasks and missions."
+      },
+      {
+        "id": "1984-2",
+        "title": "June 2025 — Rebuilding After Loss",
+        "body": "The Vampire team is destroyed. The future Assemblya team begins rebuilding and repairing what remains."
+      },
+      {
+        "id": "1984-2",
+        "title": "August 2025 — A Separate Bomber Unit",
+        "body": "A dedicated bomber unit is established. Git takes responsibility for leading the entire unit."
       }
     ]
   },
   {
-    "year": "1985",
+    "year": "2026",
     "items": [
       {
         "id": "1985-1",
-        "title": "Title",
-        "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        "title": "February 2026 — Second Team Established",
+        "body": "A second team is created, fully trained, and receives its certifications."
+      },
+      {
+        "id": "1985-2",
+        "title": "May 2026 — Bumblebee FPV dropper Joins the Unit",
+        "body": "The Bumblebee team joins our unit. The idea behind Assemblya finally takes shape."
+      },
+      {
+        "id": "1985-3",
+        "title": "Summer 2026 — The Work Continues",
+        "body": "Operations continue. We keep delivering a warm welcome to our enemy."
       }
     ]
   },
