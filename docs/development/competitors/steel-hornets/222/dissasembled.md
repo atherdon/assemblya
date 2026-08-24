@@ -1,4 +1,3 @@
-```md
 ---
 slug: /development/competitors/steel-hornets/222/dissasembled
 title: Steel Hornets Model 222 Disassembled
@@ -75,4 +74,3 @@ sidebar_position: 20
 <img src="/img/steel-hornets/diss/IMG_20260621_233134_386.jpg" alt="IMG_20260621_233134_386.jpg" style={{maxWidth: '800px', height: 'auto', display: 'block', margin: '0 auto'}} />
 
 <img src="/img/steel-hornets/diss/IMG_20260621_233326_662.jpg" alt="IMG_20260621_233326_662.jpg" style={{maxWidth: '800px', height: 'auto', display: 'block', margin: '0 auto'}} />
-```

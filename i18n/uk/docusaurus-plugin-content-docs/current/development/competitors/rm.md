@@ -6,4 +6,4 @@ sidebar_label: Notes
 
 # Competitors notes
 
-Placeholder notes.
+Placeholder notes. [DELETE IT LATER]
