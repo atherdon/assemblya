@@ -25,3 +25,4 @@ https://prom.ua/ua/p2747432436-servoprivod-dsservo-ds3218.html
 
 https://www.aliexpress.com/item/32975209678.html
 
+https://greathouse.com.ua/ua/p2101829081-servoprivod-serva-tower.html
