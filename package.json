@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@docusaurus/eslint-plugin": "^3.10.2",
-    "@types/node": "^24.0.0",
+    "@types/node": "^26.6.6",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "typescript": "^7.0.0",
@@ -60,6 +60,6 @@
     ]
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=26.13.0"
   }
 }
