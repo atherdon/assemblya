@@ -42,7 +42,7 @@
     "typescript": "^7.0.0",
     "auto-changelog": "^2.6.0",
     "prettier": "^3.6.0",
-    "eslint": "^9.0.0",
+    "eslint": "^9.39.5",
     "@docusaurus/tsconfig": "^3.10.2",
     "@docusaurus/types": "^3.10.2"
   },
