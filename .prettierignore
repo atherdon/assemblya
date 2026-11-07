@@ -4,3 +4,4 @@ node_modules
 package-lock.json
 static
 i18n/**/code.json
+CHANGELOG.md
