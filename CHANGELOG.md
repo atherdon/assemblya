@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- style: apply prettier to files never formatted on main [`#103`](https://github.com/atherdon/assemblya/pull/103)
 - updates on this website [`#104`](https://github.com/atherdon/assemblya/pull/104)
 - perf: smaller competitors/research images (brav batch 2/2) [`#76`](https://github.com/atherdon/assemblya/pull/76)
 - perf: recompress remaining competitors images (nayavu/etc.) [`#78`](https://github.com/atherdon/assemblya/pull/78)
@@ -95,7 +96,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Commits
 
 - Create bikini.html [`9a75074`](https://github.com/atherdon/assemblya/commit/9a75074a15c223b602b7fb0741f130f18035b70d)
-- style: apply prettier to files never formatted on main [`8418f8d`](https://github.com/atherdon/assemblya/commit/8418f8d12b4fcb10a0d8f4c97b04e78824892679)
+- chore(changelog): regenerate after merged pull request [`fba9e82`](https://github.com/atherdon/assemblya/commit/fba9e8286e4cf010c94fd53bfecf7c755234053c)
 - chore(changelog): regenerate after merged pull request [`a7e5327`](https://github.com/atherdon/assemblya/commit/a7e5327e38bfdb11664a7232c293a399e959a3c4)
 - chore(changelog): regenerate after merged pull request [`acbac9f`](https://github.com/atherdon/assemblya/commit/acbac9fce1aef2a523c05167bbc68f7dd7c6415d)
 - chore(changelog): regenerate after merged pull request [`4722eb1`](https://github.com/atherdon/assemblya/commit/4722eb10b4374d18e97291faf79a78d0ec5e2dfb)
@@ -132,6 +133,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - style: apply Prettier formatting (batch 2) [`d8bc163`](https://github.com/atherdon/assemblya/commit/d8bc1632d62114ede0ae46136bc208402c57eaa7)
 - fix: adopt documentation-actions workflows without LFS fetch [`98ec6e6`](https://github.com/atherdon/assemblya/commit/98ec6e6da9cc68ee17eeea2ff1e5f4f0e3bf7695)
 - Update timeline.en.json [`88c6f3f`](https://github.com/atherdon/assemblya/commit/88c6f3f260d07434e8a47ac41fe4276855c05201)
+- style: apply prettier to unformatted files on main; ignore auto-generated CHANGELOG.md [`07d1c3c`](https://github.com/atherdon/assemblya/commit/07d1c3c6d5476ca274868547bef3bc9f4109bedb)
 - Update impart-effort-matrix1.md [`eef88d7`](https://github.com/atherdon/assemblya/commit/eef88d7365678e2fc7bb09ef59ffcd965bc52e3e)
 - 122112 [`d49c46c`](https://github.com/atherdon/assemblya/commit/d49c46cb4ffd510dd3f8fe5bee10d204c85fbb0d)
 - chore(docs-index): regenerate all-pages markdown list [`7b5c502`](https://github.com/atherdon/assemblya/commit/7b5c5024837e7e1b44d6b73daaa05f7e53f6d918)
