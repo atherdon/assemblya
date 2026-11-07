@@ -15,7 +15,7 @@ Collect mone and order 3 drop systems to
 
 - Teufel
 - Simon NL
-- Yuriy S***
+- Yuriy S\*\*\*
 
 - Zombie stealing money from Europeans on his Paypal zombieua2025@gmail.com
 - Zombie convert money to UAH and send them to Max
