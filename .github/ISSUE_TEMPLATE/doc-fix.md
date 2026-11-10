@@ -1,15 +1,12 @@
 ---
-name: Documentation fix
-about: EN/UK docs, media, or sidebar
-title: "docs: "
+name: Doc fix
+about: Missing page, broken image, EN/UK sync issue
+title: '[docs] '
 labels: documentation
 ---
 
-## What to change
+## Page / locale
 
-## Locale
+## What's wrong
 
-- [ ] English (`docs/`)
-- [ ] Ukrainian (`i18n/uk/...`)
-
-## Notes
+## Suggested fix

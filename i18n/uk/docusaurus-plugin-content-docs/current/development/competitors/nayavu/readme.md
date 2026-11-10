@@ -7,20 +7,17 @@ sidebar_position: 10
 
 # Nayavu
 
-
-
 ## Images
 
-![nayavu-img1](./images/nayavu-img1.jpg)
+![nayavu-img1](/img/nayavu/one-drop/nayavu-img1.jpg)
 
-![nayavu-img2](./images/nayavu-img2.jpg)
+![nayavu-img2](/img/nayavu/one-drop/nayavu-img2.jpg)
 
-![nayavu-img3](./images/nayavu-img3.jpg)
+![nayavu-img3](/img/nayavu/one-drop/nayavu-img3.jpg)
 
-![nayavu-img4](./images/nayavu-img4.jpg)
+![nayavu-img4](/img/nayavu/one-drop/nayavu-img4.jpg)
 
-![nayavu-img5](./images/nayavu-img5.jpg)
-
+![nayavu-img5](/img/nayavu/one-drop/nayavu-img5.jpg)
 
 ---
 
@@ -28,8 +25,6 @@ sidebar_position: 10
 Сучасна система скидання, розроблена для FPV-дронів, забезпечує надійне транспортування і точне скидання вантажів у різних умовах. Підключається безпосередньо до польотного контролера без потреби в BEC. Має велику вантажопідйомність і широкі можливості налаштування. Детальніше: https://nayavu.com.ua/ua/p2711292205-sbros-15kg-soul.html
 
 ![xxx](https://images.prom.ua/6790714066_w1280_h1280_photo_2025_08_09_14_03_18.jpg?fresh=1)
-
-
 
 LUCKY STRIKE АБО ІНШИХ АДАПТЕРІВ
 Каталог
@@ -88,9 +83,6 @@ https://www.facebook.com/people/Nayavu-Additive-manufacturer/100086177952916/
 Скидання до 15 кг Soul Eater Пожирач душ для FPV на рамах XL10, Mark 4, Lucky Strike або інших адаптерів
 985 ₴
 
-
-
-
 1 280 ₴
 
 Готово до відправки
@@ -98,7 +90,7 @@ https://www.facebook.com/people/Nayavu-Additive-manufacturer/100086177952916/
 Купити
 Купити з
 Що таке купити з Пром?
-Замовлення під захистом 
+Замовлення під захистом
 +380 (93) 211-62-42
 Умови оплати та доставки Графік роботи Адреса та контакти
 повернення товару протягом 14 днів за домовленістюДетальніше
@@ -109,11 +101,9 @@ https://www.facebook.com/people/Nayavu-Additive-manufacturer/100086177952916/
 Купити
 Купити з
 +380 (93) 211-62-42
-Опис	Характеристики	Інформація для замовлення
+Опис Характеристики Інформація для замовлення
 Скидання до 15 кг Soul Eater Пожирач душ для FPV на рамах XL10, Mark 4, Lucky Strike або інших адаптерів - повний комплект
 Сучасна система скидання, розроблена для FPV-дронів, забезпечує надійне транспортування і точне скидання вантажів у різних умовах. Підключається безпосередньо до польотного контролера без потреби в BEC. Має велику вантажопідйомність і широкі можливості налаштування.
-
-
 
 Технічні характеристики:
 
