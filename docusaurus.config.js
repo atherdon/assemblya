@@ -12,12 +12,11 @@ const config = {
   tagline: 'Modular payload delivery platform — veterans-led engineering docs',
   favicon: 'img/favicon.ico',
 
-  // Canonical site URL matches the live upstream Pages host.
-  // baseUrl stays /assemblya/ for both atherdon and this fork.
+  // Canonical live site URL (upstream Pages host).
   url: 'https://atherdon.github.io',
   baseUrl: '/assemblya/',
 
-  // This repository is LLazyEmail/assemblya (fork). Keep org/project for GH metadata.
+  // This repository is LLazyEmail/assemblya (fork). Keep org for GH metadata.
   organizationName: 'LLazyEmail',
   projectName: 'assemblya',
   trailingSlash: false,
@@ -71,8 +70,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/LLazyEmail/assemblya/tree/main/',
+          editUrl: 'https://github.com/LLazyEmail/assemblya/tree/main/',
           editLocalizedFiles: true,
         },
         blog: false,
