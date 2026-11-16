@@ -10,4 +10,4 @@ permissions:
 
 jobs:
   comment:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-star-request.yml@v1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-star-request.yml@v2
