@@ -22,10 +22,38 @@ npm run typecheck
 npm run format:check
 npm run check:images
 npm run check:i18n
+npm run lint                 # ESLint
+npm run check:build-images   # after npm run build: verify every <img> in build/ resolves
+npm run generate:docs-index  # regenerate docs/pages-index.md (CI does this on main)
 ```
 
 ## CI
 
-Pull requests run test-deploy, typecheck, format check, i18n sync, and missing-images checks via reusable workflows from `LLazyEmail/documentation-actions`.
+Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions).
 
-Broken or missing media images warn but do not fail the build (`onBrokenMarkdownImages: 'warn'`).
+### On pull requests
+
+| Workflow             | What it runs                                                                          | Red on problems?          |
+| -------------------- | ------------------------------------------------------------------------------------- | ------------------------- |
+| Test deployment      | Docusaurus build                                                                      | yes                       |
+| Build image check    | build, then `scripts/check-build-images.mjs` with `scripts/build-image-allowlist.txt` | yes                       |
+| Format check         | `npm run format:check` (Prettier)                                                     | yes                       |
+| Typecheck            | `npm run typecheck`                                                                   | yes                       |
+| Markdown lint        | markdownlint on README, CHANGELOG, AGENTS, CONTRIBUTING, `docs/`, `i18n/`             | yes                       |
+| Link check           | lychee on README, CHANGELOG, `docs/`, `i18n/` (also weekly, opening an issue)         | yes                       |
+| Missing images check | `npm run check:images`                                                                | advisory (always exits 0) |
+| i18n sync check      | `npm run check:i18n`                                                                  | advisory (always exits 0) |
+| Star request comment | one comment on newly opened PRs (`pull_request_target`)                               | no                        |
+
+### On `main`
+
+| Workflow                | What it does                                                   |
+| ----------------------- | -------------------------------------------------------------- |
+| Update changelog        | regenerates `CHANGELOG.md` with auto-changelog and commits it  |
+| Update docs pages index | regenerates `docs/pages-index.md` and commits it               |
+| Deploy                  | builds and publishes the site                                  |
+| Auto-rebase open PRs    | every 6 hours, updates open PR branches that are behind `main` |
+
+Generated files (`CHANGELOG.md`, `docs/pages-index.md`) are committed by CI, so don't edit them by hand.
+
+Broken or missing media images warn but do not fail the Docusaurus build (`onBrokenMarkdownImages: 'warn'`). The build image check is the gate for those. Known-unrecoverable assets are listed in `scripts/build-image-allowlist.txt` and tracked in #105.
