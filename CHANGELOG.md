@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- fix(deps): update react monorepo to v19 [`#47`](https://github.com/atherdon/assemblya/pull/47)
 - chore(format): ignore generated docs/pages-index.md in Prettier [`#113`](https://github.com/atherdon/assemblya/pull/113)
 - chore: sync fork main into main (supersedes #106) [`#109`](https://github.com/atherdon/assemblya/pull/109)
 - perf: recompress remaining competitors images (nayavu/etc.) [`#102`](https://github.com/atherdon/assemblya/pull/102)
@@ -183,6 +184,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 121231 [`81278f4`](https://github.com/atherdon/assemblya/commit/81278f4b5f05c08a073c7a4db62b54b8f07ea2f7)
 - Update readme.md [`b4c422b`](https://github.com/atherdon/assemblya/commit/b4c422b9bee11c36168121bc15cecbc12da5ea0b)
 - style: apply Prettier formatting (batch 1/6) [`b7b2d7d`](https://github.com/atherdon/assemblya/commit/b7b2d7da1294681700f42bff40707283e80a04dd)
+- chore(changelog): regenerate after merged pull request [`02ad862`](https://github.com/atherdon/assemblya/commit/02ad86256bdc8284668b698809cdf864414cd4fa)
 - chore: add check:i18n script for EN/UK doc path parity [`cbf6aa6`](https://github.com/atherdon/assemblya/commit/cbf6aa61afaec6398b63fb26caedd36ea99997b2)
 - Create custom CSS styles [`fd96e19`](https://github.com/atherdon/assemblya/commit/fd96e190da29354f6c93d3c1c2ee2d9898622686)
 - fix: use LFS-enabled inline deploy workflows (from #51) [`baff2ee`](https://github.com/atherdon/assemblya/commit/baff2eec8082ffee3ea1f629109380d7def74c2d)
