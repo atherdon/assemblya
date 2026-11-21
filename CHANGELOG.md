@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(deps): update node.js to v26 [`#81`](https://github.com/atherdon/assemblya/pull/81)
 - chore(deps): update dependency eslint to ^9.39.5 [`#84`](https://github.com/atherdon/assemblya/pull/84)
 - fix(houdini): repoint hidden gallery image refs to the moved files [`#115`](https://github.com/atherdon/assemblya/pull/115)
 - ci: prefer documentation-actions short-name aliases [`#117`](https://github.com/atherdon/assemblya/pull/117)
@@ -300,6 +301,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update index.tsx [`ba1e056`](https://github.com/atherdon/assemblya/commit/ba1e05664dfc0c960120435e234f06dfac0a62f2)
 - Delete docs/master-plan-v1.png [`8051c99`](https://github.com/atherdon/assemblya/commit/8051c99e69fbc1515488079a06c018180076cf2e)
 - Create babel.config.js [`6d8facd`](https://github.com/atherdon/assemblya/commit/6d8facdb165c05d01b2ffaedbd2c144e6e9eac45)
+- chore(changelog): regenerate after merged pull request [`72320b1`](https://github.com/atherdon/assemblya/commit/72320b17b91ae3952b85c0b6a10d9d856dc5cf0a)
 - chore(changelog): regenerate after merged pull request [`eaaf208`](https://github.com/atherdon/assemblya/commit/eaaf208bcaac91d4b9eda7fb210b5ec3acc89b43)
 - chore(changelog): regenerate after merged pull request [`24dbdc2`](https://github.com/atherdon/assemblya/commit/24dbdc288ece75d6b288b4bd464200d81323be5e)
 - fix(check-build-images): escape backslashes before pipes in report (CodeQL js/incomplete-sanitization) [`07d5ac8`](https://github.com/atherdon/assemblya/commit/07d5ac822ecedce2158ee64003387cf03165410f)
