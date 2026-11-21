@@ -8,7 +8,7 @@ Docusaurus documentation site for AssemBLYA (EN + UK).
 
 ## Requirements
 
-- Node.js 24 (see `.nvmrc`)
+- Node.js 26 (see `.nvmrc`)
 - npm
 
 ## Development
@@ -29,7 +29,7 @@ npm run generate:docs-index  # regenerate docs/pages-index.md (CI does this on m
 
 ## CI
 
-Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions).
+Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions). Where a short-name alias exists, the caller uses it: `deploy.yml` calls `reusable-pages-deploy` (same inputs as `reusable-docusaurus-pages-deploy`), currently pinned at `@v1`. [PR #112](https://github.com/atherdon/assemblya/pull/112) bumps that pin to `@v2`.
 
 ### On pull requests
 
@@ -51,7 +51,7 @@ Every workflow in `.github/workflows/` is a thin caller of a reusable workflow o
 | ----------------------- | -------------------------------------------------------------- |
 | Update changelog        | regenerates `CHANGELOG.md` with auto-changelog and commits it  |
 | Update docs pages index | regenerates `docs/pages-index.md` and commits it               |
-| Deploy                  | builds and publishes the site                                  |
+| Deploy                  | builds and publishes the site (`reusable-pages-deploy`)        |
 | Auto-rebase open PRs    | every 6 hours, updates open PR branches that are behind `main` |
 
 Generated files (`CHANGELOG.md`, `docs/pages-index.md`) are committed by CI, so don't edit them by hand.
