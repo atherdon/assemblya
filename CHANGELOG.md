@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: prefer documentation-actions short-name aliases [`#117`](https://github.com/atherdon/assemblya/pull/117)
 - fix(deps): update react monorepo to v19 [`#47`](https://github.com/atherdon/assemblya/pull/47)
 - chore(format): ignore generated docs/pages-index.md in Prettier [`#113`](https://github.com/atherdon/assemblya/pull/113)
 - chore: sync fork main into main (supersedes #106) [`#109`](https://github.com/atherdon/assemblya/pull/109)
@@ -295,6 +296,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update index.tsx [`ba1e056`](https://github.com/atherdon/assemblya/commit/ba1e05664dfc0c960120435e234f06dfac0a62f2)
 - Delete docs/master-plan-v1.png [`8051c99`](https://github.com/atherdon/assemblya/commit/8051c99e69fbc1515488079a06c018180076cf2e)
 - Create babel.config.js [`6d8facd`](https://github.com/atherdon/assemblya/commit/6d8facdb165c05d01b2ffaedbd2c144e6e9eac45)
+- chore(changelog): regenerate after merged pull request [`24dbdc2`](https://github.com/atherdon/assemblya/commit/24dbdc288ece75d6b288b4bd464200d81323be5e)
 - fix(check-build-images): escape backslashes before pipes in report (CodeQL js/incomplete-sanitization) [`07d5ac8`](https://github.com/atherdon/assemblya/commit/07d5ac822ecedce2158ee64003387cf03165410f)
 - fix(check-build-images): escape backslashes before pipes in report (CodeQL js/incomplete-sanitization) [`2a8c766`](https://github.com/atherdon/assemblya/commit/2a8c7669b3b34feb6cecc3e1dcc2d1792e0e12a6)
 - style: prettier on model-222 dissasembled docs [`3f75d39`](https://github.com/atherdon/assemblya/commit/3f75d3979478440e618cdce4921e13f2a061d02d)
