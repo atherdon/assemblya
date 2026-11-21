@@ -26,6 +26,6 @@ npm run check:i18n
 
 ## CI
 
-Pull requests run test-deploy, typecheck, format check, i18n sync, and missing-images checks via reusable workflows from `LLazyEmail/documentation-actions`.
+Pull requests run test-deploy, typecheck, format check, i18n sync, and missing-images checks via reusable workflows from `LLazyEmail/documentation-actions`. Where a short-name alias exists on the current pin, the caller uses it: `deploy.yml` calls `reusable-pages-deploy` (same inputs as `reusable-docusaurus-pages-deploy`), still pinned at `@v1`.
 
 Broken or missing media images warn but do not fail the build (`onBrokenMarkdownImages: 'warn'`).
