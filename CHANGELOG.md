@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- fix(houdini): repoint hidden gallery image refs to the moved files [`#115`](https://github.com/atherdon/assemblya/pull/115)
 - ci: prefer documentation-actions short-name aliases [`#117`](https://github.com/atherdon/assemblya/pull/117)
 - fix(deps): update react monorepo to v19 [`#47`](https://github.com/atherdon/assemblya/pull/47)
 - chore(format): ignore generated docs/pages-index.md in Prettier [`#113`](https://github.com/atherdon/assemblya/pull/113)
@@ -206,6 +207,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 12 [`68603b9`](https://github.com/atherdon/assemblya/commit/68603b95972ba2713faea09bb37f0c69821c2baf)
 - Update readme.md [`0e2300c`](https://github.com/atherdon/assemblya/commit/0e2300cb276b3b49d18475cee0fe113c52bc3a17)
 - Add .gitignore for Docusaurus [`af38822`](https://github.com/atherdon/assemblya/commit/af38822d991688217135ccea5c4710ceb5abc1f9)
+- fix(houdini): repoint hidden gallery refs to the moved/renamed images [`f3dd598`](https://github.com/atherdon/assemblya/commit/f3dd598e22fb12a7b60536ad67d0929991f56413)
 - Delete docs/communication/ana1.md [`3742946`](https://github.com/atherdon/assemblya/commit/3742946c2c289c1033a12aea49a89a02d82bb31b)
 - Create ana1.md [`973b0e3`](https://github.com/atherdon/assemblya/commit/973b0e3df6700a0fb4d3624620971dcb642698e5)
 - chore: add tsconfig and npm run typecheck [`8180052`](https://github.com/atherdon/assemblya/commit/8180052c923150e2b4032b8f53c78373e813f371)
@@ -296,6 +298,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update index.tsx [`ba1e056`](https://github.com/atherdon/assemblya/commit/ba1e05664dfc0c960120435e234f06dfac0a62f2)
 - Delete docs/master-plan-v1.png [`8051c99`](https://github.com/atherdon/assemblya/commit/8051c99e69fbc1515488079a06c018180076cf2e)
 - Create babel.config.js [`6d8facd`](https://github.com/atherdon/assemblya/commit/6d8facdb165c05d01b2ffaedbd2c144e6e9eac45)
+- chore(changelog): regenerate after merged pull request [`eaaf208`](https://github.com/atherdon/assemblya/commit/eaaf208bcaac91d4b9eda7fb210b5ec3acc89b43)
 - chore(changelog): regenerate after merged pull request [`24dbdc2`](https://github.com/atherdon/assemblya/commit/24dbdc288ece75d6b288b4bd464200d81323be5e)
 - fix(check-build-images): escape backslashes before pipes in report (CodeQL js/incomplete-sanitization) [`07d5ac8`](https://github.com/atherdon/assemblya/commit/07d5ac822ecedce2158ee64003387cf03165410f)
 - fix(check-build-images): escape backslashes before pipes in report (CodeQL js/incomplete-sanitization) [`2a8c766`](https://github.com/atherdon/assemblya/commit/2a8c7669b3b34feb6cecc3e1dcc2d1792e0e12a6)
