@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(deps): update dependency eslint to ^9.39.5 [`#84`](https://github.com/atherdon/assemblya/pull/84)
 - fix(houdini): repoint hidden gallery image refs to the moved files [`#115`](https://github.com/atherdon/assemblya/pull/115)
 - ci: prefer documentation-actions short-name aliases [`#117`](https://github.com/atherdon/assemblya/pull/117)
 - fix(deps): update react monorepo to v19 [`#47`](https://github.com/atherdon/assemblya/pull/47)
@@ -286,6 +287,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - i command you to build [`2e9cd6b`](https://github.com/atherdon/assemblya/commit/2e9cd6be217f1b257223db58a358ccccd22cee97)
 - 11 [`efe96dd`](https://github.com/atherdon/assemblya/commit/efe96ddfe73ce9d86103749f16a1b7a3311d5e3b)
 - Update roadmap.md [`e224250`](https://github.com/atherdon/assemblya/commit/e224250dc2fbd8aa13f5530268ab36f8a0e7dfc5)
+- chore(changelog): regenerate after merged pull request [`9579fe2`](https://github.com/atherdon/assemblya/commit/9579fe2e648530ad7f50c645955861980a52db29)
 - chore(changelog): regenerate after merged pull request [`5441967`](https://github.com/atherdon/assemblya/commit/5441967aad813bfca1f80380169820ce1fc58db1)
 - chore(changelog): regenerate after merged pull request [`c86eb00`](https://github.com/atherdon/assemblya/commit/c86eb00325b875b05f7831654ac68c282d60be70)
 - chore(changelog): regenerate after merged pull request [`6669cfd`](https://github.com/atherdon/assemblya/commit/6669cfda730fffee404194bfd6d9eb7324b08cec)
