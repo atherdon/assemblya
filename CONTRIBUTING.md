@@ -15,9 +15,12 @@ Thanks for helping with AssemBLYA docs on the **LLazyEmail/assemblya** fork.
 ```bash
 npm ci
 npm run build
+npm run typecheck
+npm run format:check
+npm run lint
 ```
 
-Optional (once adopted): markdownlint + lychee via GitHub Actions reusable workflows.
+CI already runs the Docusaurus build, Prettier, typecheck, markdownlint, and lychee on pull requests (via `LLazyEmail/documentation-actions@v2`).
 
 ## Commit trailer
 
