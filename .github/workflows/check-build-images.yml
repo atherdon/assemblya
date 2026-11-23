@@ -19,14 +19,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
           # Never enable Git LFS smudge — LFS objects 404 in this repo.
           lfs: false
 
       - name: Build Docusaurus (en + uk)
-        uses: LLazyEmail/documentation-actions/actions/docusaurus-build@v1
+        uses: LLazyEmail/documentation-actions/actions/docusaurus-build@v2
         with:
           working-directory: .
           cache-dependency-path: package-lock.json

@@ -14,12 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Build Docusaurus
-        uses: LLazyEmail/documentation-actions/actions/docusaurus-build@v1
+        uses: LLazyEmail/documentation-actions/actions/docusaurus-build@v2
         with:
           working-directory: .
           cache-dependency-path: package-lock.json

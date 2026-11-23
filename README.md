@@ -29,7 +29,7 @@ npm run generate:docs-index  # regenerate docs/pages-index.md (CI does this on m
 
 ## CI
 
-Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions). Where a short-name alias exists, the caller uses it: `deploy.yml` calls `reusable-pages-deploy` (same inputs as `reusable-docusaurus-pages-deploy`), currently pinned at `@v1`. [PR #112](https://github.com/atherdon/assemblya/pull/112) bumps that pin to `@v2`.
+Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions), pinned at `@v2`. Where a short-name alias exists, the caller uses it: `deploy.yml` calls `reusable-pages-deploy` (same inputs as `reusable-docusaurus-pages-deploy`).
 
 ### On pull requests
 

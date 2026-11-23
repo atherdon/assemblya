@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(scripts): skip hidden refs and generated index in advisory checks [`#114`](https://github.com/atherdon/assemblya/pull/114)
+- chore(deps): update dependency eslint to v10 [`#119`](https://github.com/atherdon/assemblya/pull/119)
+- chore(deps): update actions/checkout action to v7 [`#118`](https://github.com/atherdon/assemblya/pull/118)
+- chore(ci): bump documentation-actions to v2 [`#112`](https://github.com/atherdon/assemblya/pull/112)
 - docs(readme): document every CI workflow, generated files and extra scripts [`#116`](https://github.com/atherdon/assemblya/pull/116)
 - chore(deps): update node.js to v26 [`#81`](https://github.com/atherdon/assemblya/pull/81)
 - chore(deps): update dependency eslint to ^9.39.5 [`#84`](https://github.com/atherdon/assemblya/pull/84)
@@ -195,6 +199,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create custom CSS styles [`fd96e19`](https://github.com/atherdon/assemblya/commit/fd96e190da29354f6c93d3c1c2ee2d9898622686)
 - fix: use LFS-enabled inline deploy workflows (from #51) [`baff2ee`](https://github.com/atherdon/assemblya/commit/baff2eec8082ffee3ea1f629109380d7def74c2d)
 - fix: align @types/react to v18 with React 18 runtime [`c792170`](https://github.com/atherdon/assemblya/commit/c792170f21ef867cb6204588a1f90bf03e08f70f)
+- chore(ci): bump documentation-actions pins from @v1 to @v2 [`62a2b64`](https://github.com/atherdon/assemblya/commit/62a2b644aba6c3792389260a731bfdc11dc2b9e1)
 - ci: inline test-deploy via documentation-actions composite [`a926cbc`](https://github.com/atherdon/assemblya/commit/a926cbcd1213137f34c3c46ab0d888d1c8ca1913)
 - ci: adopt documentation-actions npm-script-check for format:check [`e631787`](https://github.com/atherdon/assemblya/commit/e6317874a9b310558fa3835567b39e3614d0ab36)
 - Create pln.txt [`7b6cb49`](https://github.com/atherdon/assemblya/commit/7b6cb497693bf7b168dbfdedd788f1f69e6ef6f9)
@@ -290,6 +295,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - i command you to build [`2e9cd6b`](https://github.com/atherdon/assemblya/commit/2e9cd6be217f1b257223db58a358ccccd22cee97)
 - 11 [`efe96dd`](https://github.com/atherdon/assemblya/commit/efe96ddfe73ce9d86103749f16a1b7a3311d5e3b)
 - Update roadmap.md [`e224250`](https://github.com/atherdon/assemblya/commit/e224250dc2fbd8aa13f5530268ab36f8a0e7dfc5)
+- chore(changelog): regenerate after merged pull request [`14a25e2`](https://github.com/atherdon/assemblya/commit/14a25e258e151739e1586b9e66c9c57872291b3c)
+- chore(changelog): regenerate after merged pull request [`e96a43d`](https://github.com/atherdon/assemblya/commit/e96a43dbfeb975224be6dd88a2ee87cb1594f438)
+- chore(changelog): regenerate after merged pull request [`ff52508`](https://github.com/atherdon/assemblya/commit/ff525082292e3478820c27c7522fe0d1e51790ae)
 - chore(changelog): regenerate after merged pull request [`9579fe2`](https://github.com/atherdon/assemblya/commit/9579fe2e648530ad7f50c645955861980a52db29)
 - chore(changelog): regenerate after merged pull request [`5441967`](https://github.com/atherdon/assemblya/commit/5441967aad813bfca1f80380169820ce1fc58db1)
 - chore(changelog): regenerate after merged pull request [`c86eb00`](https://github.com/atherdon/assemblya/commit/c86eb00325b875b05f7831654ac68c282d60be70)
