@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(scripts): skip hidden refs and generated index in advisory checks [`#114`](https://github.com/atherdon/assemblya/pull/114)
 - chore(deps): update dependency eslint to v10 [`#119`](https://github.com/atherdon/assemblya/pull/119)
 - chore(deps): update actions/checkout action to v7 [`#118`](https://github.com/atherdon/assemblya/pull/118)
 - chore(ci): bump documentation-actions to v2 [`#112`](https://github.com/atherdon/assemblya/pull/112)
@@ -294,6 +295,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - i command you to build [`2e9cd6b`](https://github.com/atherdon/assemblya/commit/2e9cd6be217f1b257223db58a358ccccd22cee97)
 - 11 [`efe96dd`](https://github.com/atherdon/assemblya/commit/efe96ddfe73ce9d86103749f16a1b7a3311d5e3b)
 - Update roadmap.md [`e224250`](https://github.com/atherdon/assemblya/commit/e224250dc2fbd8aa13f5530268ab36f8a0e7dfc5)
+- chore(changelog): regenerate after merged pull request [`14a25e2`](https://github.com/atherdon/assemblya/commit/14a25e258e151739e1586b9e66c9c57872291b3c)
 - chore(changelog): regenerate after merged pull request [`e96a43d`](https://github.com/atherdon/assemblya/commit/e96a43dbfeb975224be6dd88a2ee87cb1594f438)
 - chore(changelog): regenerate after merged pull request [`ff52508`](https://github.com/atherdon/assemblya/commit/ff525082292e3478820c27c7522fe0d1e51790ae)
 - chore(changelog): regenerate after merged pull request [`9579fe2`](https://github.com/atherdon/assemblya/commit/9579fe2e648530ad7f50c645955861980a52db29)
