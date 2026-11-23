@@ -5,13 +5,12 @@ sidebar_label: Garry Houdini
 sidebar_position: 10
 ---
 
-# GarryHoudini 
-
+# GarryHoudini
 
 ### [Dua Lipa Houdini](https://www.youtube.com/watch?v=suAR1PYFNYA)
 
-
 ## Заявка на закупівлю 10-20-30 скидів
+
 ### [Роби заявку на скиди та не зайобуй](https://form.typeform.com/to/kMUOiOje)
 
 ---
@@ -22,12 +21,11 @@ sidebar_position: 10
 
 ## Images
 
-
 <!--
 ### How it looks
-![IMG-20260626-WA0193](/img/houdini/IMG-20260626-WA0193.jpg)
+![IMG-20260626-WA0193](/img/houdini/butterfly/IMG-20260626-WA0193.jpg)
 
-![IMG-20260626-WA0194](/img/houdini/IMG-20260626-WA0194.jpg)
+![IMG-20260626-WA0194](/img/houdini/butterfly/IMG-20260626-WA0194.jpg)
 
 ![IMG_20260626_200237_500](/img/houdini/IMG_20260626_200237_500.jpg)
 
@@ -37,9 +35,11 @@ sidebar_position: 10
 -->
 
 ### Basic testing workflow
+
 ![hudini-drop-v1-img1](/img/houdini/images/hudini-drop-v1-img1.jpg)
 
 /img/houdini/images/ diagram.png
+
 ### one
 
 ![hudini-drop-v1-img2](/img/houdini/images/hudini-drop-v1-img2.jpg)
@@ -48,10 +48,7 @@ sidebar_position: 10
 
 ![hudini-drop-v1-img4](/img/houdini/images/hudini-drop-v1-img4.jpg)
 
-
-
 ---
-
 
 ### two
 
@@ -69,13 +66,13 @@ sidebar_position: 10
 
 <!--
 
-### three 
+### three
 
 
 
-![IMG-20260625-WA0126](/img/houdini/IMG-20260625-WA0126-jpg-06-25-2026_11_29_PM.png)
+![IMG-20260625-WA0126](/img/houdini/butterfly/IMG-20260625-WA0126.png)
 
-![IMG_20260625_225911_683_JPG](/img/houdini/IMG_20260625_225911_683-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225911_683_JPG](/img/houdini/IMG_20260625_225911_683.png)
 
 
 
@@ -84,7 +81,7 @@ sidebar_position: 10
 
 ### four
 
-![IMG_20260625_225911_683_PNG](/img/houdini/IMG_20260625_225911_683-png-06-25-2026_11_29_PM.png)
+![IMG_20260625_225911_683_PNG](/img/houdini/IMG_20260625_225911_683-1.png)
 
 
 
@@ -93,17 +90,17 @@ sidebar_position: 10
 ### five
 
 
-![IMG_20260625_225917_560](/img/houdini/IMG_20260625_225917_560-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225917_560](/img/houdini/IMG_20260625_225917_560.png)
 
-![IMG_20260625_225919_959](/img/houdini/IMG_20260625_225919_959-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225919_959](/img/houdini/IMG_20260625_225919_959.png)
 
-![IMG_20260625_225922_824](/img/houdini/IMG_20260625_225922_824-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225922_824](/img/houdini/IMG_20260625_225922_824.png)
 
-![IMG_20260625_225925_339](/img/houdini/IMG_20260625_225925_339-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225925_339](/img/houdini/IMG_20260625_225925_339.png)
 
-![IMG_20260625_225928_535](/img/houdini/IMG_20260625_225928_535-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225928_535](/img/houdini/IMG_20260625_225928_535.png)
 
-![IMG_20260625_225935_871](/img/houdini/IMG_20260625_225935_871-jpg-06-25-2026_11_29_PM.png)
+![IMG_20260625_225935_871](/img/houdini/IMG_20260625_225935_871.png)
 
 ---
 

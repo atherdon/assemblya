@@ -29,7 +29,7 @@ Some image references in the docs point to files that are missing or corrupt in 
 
 ## CI
 
-Workflows under `.github/workflows/` call reusable workflows from `LLazyEmail/documentation-actions@v1`. Prefer that pattern for new checks.
+Workflows under `.github/workflows/` call reusable workflows from `LLazyEmail/documentation-actions@v1`. Prefer short-name aliases from [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) when they exist on that pin; `deploy.yml` uses `reusable-pages-deploy`.
 
 ## Style
 
