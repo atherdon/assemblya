@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(deps): update dependency auto-changelog to ^2.7.0 [`#83`](https://github.com/atherdon/assemblya/pull/83)
+- chore(deps): update dependency prettier to ^3.10.1 [`#107`](https://github.com/atherdon/assemblya/pull/107)
 - chore(scripts): skip hidden refs and generated index in advisory checks [`#114`](https://github.com/atherdon/assemblya/pull/114)
 - chore(deps): update dependency eslint to v10 [`#119`](https://github.com/atherdon/assemblya/pull/119)
 - chore(deps): update actions/checkout action to v7 [`#118`](https://github.com/atherdon/assemblya/pull/118)
@@ -311,6 +313,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update index.tsx [`ba1e056`](https://github.com/atherdon/assemblya/commit/ba1e05664dfc0c960120435e234f06dfac0a62f2)
 - Delete docs/master-plan-v1.png [`8051c99`](https://github.com/atherdon/assemblya/commit/8051c99e69fbc1515488079a06c018180076cf2e)
 - Create babel.config.js [`6d8facd`](https://github.com/atherdon/assemblya/commit/6d8facdb165c05d01b2ffaedbd2c144e6e9eac45)
+- chore(changelog): regenerate after merged pull request [`8478062`](https://github.com/atherdon/assemblya/commit/8478062111c2fdde48dfa56dce1f2e7618707338)
+- chore(changelog): regenerate after merged pull request [`eab787f`](https://github.com/atherdon/assemblya/commit/eab787f5103a630bd0cb9bc07bcbcd70543e57fb)
 - chore(changelog): regenerate after merged pull request [`b06456f`](https://github.com/atherdon/assemblya/commit/b06456f0f14740319a3ffbe668fa57b8e3f77f70)
 - chore(changelog): regenerate after merged pull request [`72320b1`](https://github.com/atherdon/assemblya/commit/72320b17b91ae3952b85c0b6a10d9d856dc5cf0a)
 - chore(changelog): regenerate after merged pull request [`eaaf208`](https://github.com/atherdon/assemblya/commit/eaaf208bcaac91d4b9eda7fb210b5ec3acc89b43)
