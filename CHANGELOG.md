@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: align with DA v2 aliases, Node 26, and auto-rebase options [`#122`](https://github.com/atherdon/assemblya/pull/122)
 - chore(deps): update dependency auto-changelog to ^2.7.0 [`#83`](https://github.com/atherdon/assemblya/pull/83)
 - chore(deps): update dependency prettier to ^3.10.1 [`#107`](https://github.com/atherdon/assemblya/pull/107)
 - chore(scripts): skip hidden refs and generated index in advisory checks [`#114`](https://github.com/atherdon/assemblya/pull/114)
@@ -155,6 +156,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`bab0a0a`](https://github.com/atherdon/assemblya/commit/bab0a0ae602f3430876412e25bfbb8180111c473)
 - Add project roadmap and specifications [`417e850`](https://github.com/atherdon/assemblya/commit/417e8505408156f4c5701b2ecef5628af2dafd5b)
 - Update roadmap.md [`0c87202`](https://github.com/atherdon/assemblya/commit/0c87202645e525821182a7acb3629e9d40164077)
+- ci: align assemblya with DA v2 aliases, Node 26, and auto-rebase options [`fa2ccd4`](https://github.com/atherdon/assemblya/commit/fa2ccd44191789ce53e87effaa1e10ac83f6631a)
 - style: apply Prettier formatting (batch 2) [`d8bc163`](https://github.com/atherdon/assemblya/commit/d8bc1632d62114ede0ae46136bc208402c57eaa7)
 - fix: adopt documentation-actions workflows without LFS fetch [`98ec6e6`](https://github.com/atherdon/assemblya/commit/98ec6e6da9cc68ee17eeea2ff1e5f4f0e3bf7695)
 - Update timeline.en.json [`88c6f3f`](https://github.com/atherdon/assemblya/commit/88c6f3f260d07434e8a47ac41fe4276855c05201)
@@ -313,6 +315,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update index.tsx [`ba1e056`](https://github.com/atherdon/assemblya/commit/ba1e05664dfc0c960120435e234f06dfac0a62f2)
 - Delete docs/master-plan-v1.png [`8051c99`](https://github.com/atherdon/assemblya/commit/8051c99e69fbc1515488079a06c018180076cf2e)
 - Create babel.config.js [`6d8facd`](https://github.com/atherdon/assemblya/commit/6d8facdb165c05d01b2ffaedbd2c144e6e9eac45)
+- chore(changelog): regenerate after merged pull request [`9fc7755`](https://github.com/atherdon/assemblya/commit/9fc77554b34133ba21d8762497a72011e5d4c777)
 - chore(changelog): regenerate after merged pull request [`8478062`](https://github.com/atherdon/assemblya/commit/8478062111c2fdde48dfa56dce1f2e7618707338)
 - chore(changelog): regenerate after merged pull request [`eab787f`](https://github.com/atherdon/assemblya/commit/eab787f5103a630bd0cb9bc07bcbcd70543e57fb)
 - chore(changelog): regenerate after merged pull request [`b06456f`](https://github.com/atherdon/assemblya/commit/b06456f0f14740319a3ffbe668fa57b8e3f77f70)
