@@ -19,5 +19,5 @@ jobs:
       working-directory: .
       cache-dependency-path: package-lock.json
       artifact-path: build
-      node-version: '24'
+      node-version: '26'
     secrets: inherit

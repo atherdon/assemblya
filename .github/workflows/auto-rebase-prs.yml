@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+    inputs:
+      pr-numbers:
+        description: Comma-separated PR numbers; empty selects all open PRs
+        type: string
+        default: ''
+      rebase-conflicts:
+        description: Allow git rebase and force-push with lease for conflicts
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -11,5 +20,21 @@ permissions:
 
 jobs:
   rebase:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase.yml@v2
+    with:
+      pr-numbers: ${{ inputs.pr-numbers || '' }}
+      rebase-conflicts: ${{ inputs.rebase-conflicts || false }}
+      # When a rebase-conflicts dispatch hits a conflict but GitHub says the PR
+      # is mergeable, do a normal merge update (no force-push) instead of failing.
+      merge-fallback: true
+      # Main deleted a file the PR still edits (typically a retired workflow):
+      # accept the deletion instead of failing, and list the dropped file.
+      resolve-deleted-on-main: true
+      # Unresolvable conflicts: one typed comment plus the has-conflicts label.
+      # The scheduled run stays green (warning) instead of red, matching aem.
+      fail-on-conflict: false
+      conflict-label: has-conflicts
+      # Ask Renovate/Dependabot to rebase their own behind or conflicting PRs
+      # instead of skipping them. Off by default in DA; opt in here.
+      delegate-bot-rebase: true
     secrets: inherit

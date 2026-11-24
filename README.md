@@ -29,7 +29,11 @@ npm run generate:docs-index  # regenerate docs/pages-index.md (CI does this on m
 
 ## CI
 
-Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions), pinned at `@v2`. Where a short-name alias exists, the caller uses it: `deploy.yml` calls `reusable-pages-deploy` (same inputs as `reusable-docusaurus-pages-deploy`).
+Every workflow in `.github/workflows/` is a thin caller of a reusable workflow or action from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions), pinned at `@v2`. Callers that take `node-version` pass `'26'`, matching `.nvmrc`. Where a short-name alias exists, the caller uses it (same inputs as the long name):
+
+- `deploy.yml` → `reusable-pages-deploy`
+- `format-check.yml`, `typecheck.yml`, `i18n-check.yml`, `missing-images.yml` → `reusable-npm-check`
+- `auto-rebase-prs.yml` → `reusable-auto-rebase`
 
 ### On pull requests
 
@@ -47,12 +51,12 @@ Every workflow in `.github/workflows/` is a thin caller of a reusable workflow o
 
 ### On `main`
 
-| Workflow                | What it does                                                   |
-| ----------------------- | -------------------------------------------------------------- |
-| Update changelog        | regenerates `CHANGELOG.md` with auto-changelog and commits it  |
-| Update docs pages index | regenerates `docs/pages-index.md` and commits it               |
-| Deploy                  | builds and publishes the site (`reusable-pages-deploy`)        |
-| Auto-rebase open PRs    | every 6 hours, updates open PR branches that are behind `main` |
+| Workflow                | What it does                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Update changelog        | regenerates `CHANGELOG.md` with auto-changelog and commits it                                                                                                                                                                                                                                                                                             |
+| Update docs pages index | regenerates `docs/pages-index.md` and commits it                                                                                                                                                                                                                                                                                                          |
+| Deploy                  | builds and publishes the site (`reusable-pages-deploy`)                                                                                                                                                                                                                                                                                                   |
+| Auto-rebase open PRs    | every 6 hours, or by hand: updates branches that are behind `main`. Renovate/Dependabot PRs that conflict or fall behind are asked to rebase themselves (`delegate-bot-rebase`). A PR that only edits a workflow `main` has deleted is accepted as deleted. Other conflicts get the `has-conflicts` label and one comment; the scheduled run stays green. |
 
 Generated files (`CHANGELOG.md`, `docs/pages-index.md`) are committed by CI, so don't edit them by hand.
 

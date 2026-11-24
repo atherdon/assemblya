@@ -30,7 +30,7 @@ jobs:
         with:
           working-directory: .
           cache-dependency-path: package-lock.json
-          node-version: '24'
+          node-version: '26'
 
       - name: Verify build images
         run: node scripts/check-build-images.mjs --build-dir build --base-url /assemblya/ --allowlist scripts/build-image-allowlist.txt

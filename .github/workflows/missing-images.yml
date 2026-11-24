@@ -17,10 +17,10 @@ on:
 
 jobs:
   images:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-script-check.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-check.yml@v2
     with:
       working-directory: .
       cache-dependency-path: package-lock.json
-      node-version: '24'
+      node-version: '26'
       job-name: Check missing images
       run-command: npm run check:images

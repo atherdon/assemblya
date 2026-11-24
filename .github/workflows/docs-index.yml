@@ -20,7 +20,7 @@ jobs:
     with:
       working-directory: .
       cache-dependency-path: package-lock.json
-      node-version: '24'
+      node-version: '26'
       generate-command: npm run generate:docs-index
       commit-paths: docs/pages-index.md
     secrets: inherit
