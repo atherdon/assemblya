@@ -38,8 +38,8 @@
   "devDependencies": {
     "@docusaurus/eslint-plugin": "^3.10.2",
     "@types/node": "^26.6.6",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "typescript": "^7.0.0",
     "auto-changelog": "^2.7.0",
     "prettier": "^3.10.1",
