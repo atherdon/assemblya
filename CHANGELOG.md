@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- fix(deps): update dependency @mdx-js/react to ^3.1.1 [`#108`](https://github.com/atherdon/assemblya/pull/108)
 - chore(deps): update react monorepo to ^19.3.0 [`#77`](https://github.com/atherdon/assemblya/pull/77)
 - ci: align with DA v2 aliases, Node 26, and auto-rebase options [`#122`](https://github.com/atherdon/assemblya/pull/122)
 - chore(deps): update dependency auto-changelog to ^2.7.0 [`#83`](https://github.com/atherdon/assemblya/pull/83)
@@ -317,6 +318,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update index.tsx [`ba1e056`](https://github.com/atherdon/assemblya/commit/ba1e05664dfc0c960120435e234f06dfac0a62f2)
 - Delete docs/master-plan-v1.png [`8051c99`](https://github.com/atherdon/assemblya/commit/8051c99e69fbc1515488079a06c018180076cf2e)
 - Create babel.config.js [`6d8facd`](https://github.com/atherdon/assemblya/commit/6d8facdb165c05d01b2ffaedbd2c144e6e9eac45)
+- chore(changelog): regenerate after merged pull request [`d903094`](https://github.com/atherdon/assemblya/commit/d903094a914ce920d8cc1679ca09038d77526bbe)
 - chore(changelog): regenerate after merged pull request [`9fc7755`](https://github.com/atherdon/assemblya/commit/9fc77554b34133ba21d8762497a72011e5d4c777)
 - chore(changelog): regenerate after merged pull request [`8478062`](https://github.com/atherdon/assemblya/commit/8478062111c2fdde48dfa56dce1f2e7618707338)
 - chore(changelog): regenerate after merged pull request [`eab787f`](https://github.com/atherdon/assemblya/commit/eab787f5103a630bd0cb9bc07bcbcd70543e57fb)
