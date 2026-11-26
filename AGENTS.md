@@ -29,7 +29,7 @@ Some image references in the docs point to files that are missing or corrupt in 
 
 ## CI
 
-Workflows under `.github/workflows/` call reusable workflows from `LLazyEmail/documentation-actions@v2`. Prefer short-name aliases from [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) when they exist: `reusable-pages-deploy`, `reusable-npm-check`, and `reusable-auto-rebase`. Pass `node-version: '26'` to match `.nvmrc`. Auto-rebase is opted into `delegate-bot-rebase`, `resolve-deleted-on-main`, `fail-on-conflict: false`, and `conflict-label: has-conflicts`.
+Workflows under `.github/workflows/` call reusable workflows from `LLazyEmail/documentation-actions@v2`. Prefer short-name aliases from [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) when they exist: `reusable-pages-deploy`, `reusable-npm-check`, and `reusable-auto-rebase`. Pass `node-version: '26'` to match `.nvmrc`. Auto-rebase is opted into `delegate-bot-rebase`, `resolve-deleted-on-main`, `fail-on-conflict: false`, `conflict-label: has-conflicts`, `fail-on-skipped-conflicts: true`, `report-failing-checks: true`, and `failing-checks-label: checks-failing`. Failing check names need the `AUTO_REBASE_TOKEN` secret (a personal access token that can read checks); without it the workflow uses GitHub's "unstable" merge state.
 
 ## Style
 

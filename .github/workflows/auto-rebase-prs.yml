@@ -31,9 +31,17 @@ jobs:
       # accept the deletion instead of failing, and list the dropped file.
       resolve-deleted-on-main: true
       # Unresolvable conflicts: one typed comment plus the has-conflicts label.
-      # The scheduled run stays green (warning) instead of red, matching aem.
+      # A conflict hit during a rebase-conflicts dispatch stays a warning, matching aem.
       fail-on-conflict: false
       conflict-label: has-conflicts
+      # Make PRs this run can't fix visible (DA v2.16.0+): a sweep that skips a
+      # conflicting PR turns the run red, and PRs whose checks are red get a
+      # warning, a summary column and the checks-failing label. Check names need
+      # the AUTO_REBASE_TOKEN secret (a PAT that can read checks); without it the
+      # action uses GitHub's "unstable" merge state.
+      fail-on-skipped-conflicts: true
+      report-failing-checks: true
+      failing-checks-label: checks-failing
       # Ask Renovate/Dependabot to rebase their own behind or conflicting PRs
       # instead of skipping them. Off by default in DA; opt in here.
       delegate-bot-rebase: true
